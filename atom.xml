@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kihsu&#39;s blog</title>
+  <icon>https://www.gravatar.com/avatar/63902e43c98c92e81364e0779c515a54</icon>
+  <subtitle>本人纯属虚构</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="kihsu.me/"/>
+  <updated>2017-10-28T00:39:58.000Z</updated>
+  <id>kihsu.me/</id>
+  
+  <author>
+    <name>kihsu</name>
+    <email>kiiihsu@gmail.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="kihsu.me/2018/12/01/hello-world/"/>
+    <id>kihsu.me/2018/12/01/hello-world/</id>
+    <published>2018-12-01T11:51:51.515Z</published>
+    <updated>2017-10-28T00:39:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>no-go</title>
+    <link href="kihsu.me/2018/04/27/no-go/"/>
+    <id>kihsu.me/2018/04/27/no-go/</id>
+    <published>2018-04-27T00:22:00.000Z</published>
+    <updated>2018-07-07T09:29:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>意料之外,情理之中.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;意料之外,情理之中.&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="吐槽" scheme="kihsu.me/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>虚构-1</title>
+    <link href="kihsu.me/2018/01/20/none-1/"/>
+    <id>kihsu.me/2018/01/20/none-1/</id>
+    <published>2018-01-20T15:32:00.000Z</published>
+    <updated>2018-07-07T10:19:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#过去的故事</p><blockquote><p>人呐就都不知道，自己就不可以预料。一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程。  </p></blockquote><a id="more"></a><p>人呐，在安逸中呆久了就是不知道奋斗是什么滋味，生于忧患死于安乐，说的是挺有道理的。<br>中学时代，我的班主任曾经说过，人总是习惯于后悔却又不知悔改。我想他大概说的是我这种人吧。前几天听到同学在谈论梦想这个词语，我意识到我上次思考梦想是什么，还是小学写作文的时候，在同学的谈论中我感到了他们的焦虑，同时我自己更焦虑，因为我真的没有梦想。  </p><blockquote><p>关于梦想，我翻来覆去睡不着觉，也没有想到我有什么梦想，从小到大我的生活都按照一条既定的路线走来，什么年纪人家干什么我也跟着干什么，人家不乖我也不乖一点。如果说人家是一块橡皮泥的话，我大概是一条快干了的橡皮泥。  </p></blockquote><p>  不只没有没有梦想，我也没有目标，我感觉我不是一个独立的个体。性情怂而又懦弱，大概是我改不掉的毛病吧。其实有些事情大可不必畏畏缩缩，但是跪久了，就不敢站起来。愿我以后果断一点，不要给自己太多包袱处处掣肘。  </p><h2 id="龙樱"><a href="#龙樱" class="headerlink" title="龙樱"></a>龙樱</h2><p>好久之前看了龙樱，经过这七天的生活我感觉奋斗真好，为了想做的事情努力，一切都会好起来的。<br>人生是无趣的无意义的，如果不做些什么岂不是更没有意义。  </p><blockquote><p>无用  </p></blockquote><p>有些事情是注定没有结果的却有人还是会做，那么可能有结果的事情为什么不去努力呢？  </p><p>###最后<br><strong>但行好事，莫问前程吧</strong></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#过去的故事&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;人呐就都不知道，自己就不可以预料。一个人的命运啊，当然要靠自我奋斗，但是也要考虑到历史的行程。  &lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="吐槽" scheme="kihsu.me/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redmi Note3换屏记</title>
+    <link href="kihsu.me/2018/01/08/rn3/"/>
+    <id>kihsu.me/2018/01/08/rn3/</id>
+    <published>2018-01-08T15:33:00.000Z</published>
+    <updated>2018-07-07T10:19:58.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>淘宝买屏幕</p><a id="more"></a><p>回来换屏<br>屏幕换好 刷lineage<br>rec twrp可以触摸系统内不可以触摸<br>换AGNI内核<br>屏幕正常使用。</p><p>小插曲<br>拆尾插吧麦克风电平弄掉<br>重新买了个尾插</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;淘宝买屏幕&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="Android" scheme="kihsu.me/tags/Android/"/>
+    
+      <category term="geek" scheme="kihsu.me/tags/geek/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2017</title>
+    <link href="kihsu.me/2017/12/30/2017-end/"/>
+    <id>kihsu.me/2017/12/30/2017-end/</id>
+    <published>2017-12-29T18:34:00.000Z</published>
+    <updated>2018-07-08T15:10:02.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#2017<br>一三五七八十腊，三十一天永不差，现在是2017年12月30日距离2018年还算是还有2天。真正意义上的一年新的开始应该是元旦，可是元旦往往不如新年有味道，自从不看电视看不到往年跨年晚会的宣传，我已经丧失了对新一年的感觉————————第三旋臂边缘的一颗蓝色行星上的碳基生物正在庆祝他们所在的行星又在该恒星系里完成了一次公转。   </p><a id="more"></a><p>2017年到底发生了什么？好多网站都有对此总结。每一个网站都在标榜着这是你2017年所做的事情，but无论这些网站收集了你的多少数据，但是他仅仅知道你在这个网站上做了什么事情，即使他掌握了更多数据，但是他永远不可能知道你在想什么，就像三体星人不能看出人类想些什么一样，即使在智子的监视下也看不出头脑里面的东西。  </p><p>2017年的我似乎无比的平淡，也是想的最多的一年。2017年的我自己开始了思考 开始的想象，我开始了思索人生。也许2017年是生命中很重要的一年吧。这一年我大三，一名准毕业生，对自己前途迷茫。至于2017年我都做了什么，很空洞。从前我从来没有写过年度总结(或许这叫反思)，我也不知道为什么我开始想了，开始想要写出来想要发声.面对一无所获的2017，我感到了一丝羞愧。之前看到2017年的年度汉字是<strong>丧</strong>，这么一个字选为年度关键字确实挺丧的。我的生活于此相差无几，其实我感觉我的生活很普通普通到不足以用文字去记述。我开始尝试去回忆我的2017，一月份不记得了，二月份不记得了，三月份不记得了，四月份不记得了，五月份不记得了，六月份买了redmi note4x，七月份考试挂科目了，八月份和同学去曲阜社会实践，九月份开学补考，十月份国庆节去自考，十一月份双十一，错过了火车，丢了不该丢的东西，十二月份开始胡思乱想，在2017快要结束的时候，码了一篇这么个东西。<br>好吧这样看看自己的生活确实枯燥流水帐一样的记事，毫无写作手法可言。纯粹是胡思乱写，既然已经这样了，我决定按照节日顺序在来一遍2017</p><blockquote><p>2017年元旦 不记得了<br>腊八节 不记得了<br>小年 习俗？<br>除夕 和母亲一起吃饭然后去发小家玩<br>十五 吃元宵<br>情人节 貌似和我没关系<br>龙头节  2月2  记得理了一次发<br>惊蛰<br>清明  我一定回家了<br>母亲节 在某师范学校后面吃了一顿饭<br>儿童节 去吃饭  不记得了<br>夏至  不记得了<br>大暑 最热的这天我回了学校<br>立秋 真快秋天到了<br>中秋节 吃饭每场，发小家继续吃饭<br>寒衣节 果然写下来的东西记忆深刻。<br>冬至 去吃了火锅<br>今天 发神经码了一篇这个。</p></blockquote><p>我现在发现不光互联网没有记忆我也很没有记忆，看来以后要多写点废话。让自己有点记忆。</p><p>##2017top<br>        以下都是我自己单方面yy评选</p><pre><code>1. 图书：万里十五年2. 电影：芳华3. 音乐：像天堂的悬崖4. 综艺：《恶毒梁欢秀》吧5. 手机：mido6. 人物：R.I.P  </code></pre><p>看了自己的评选感觉自己落后了几年。</p><p>一句话总结2017，wtmdsb。</p><p>#2018开始</p><p><strong>wishlist</strong>:  </p><blockquote><p>专升本考好<br>自考过关<br>四级过<br>考研准备充分<br>缘，妙不可言。<br>换个手机，pixel or iphone<br>学会ukelili<br>爬三山<br>开发一个app<br>盘活科技说<br>挣钱<br>不忘初心，<br>少写点垃圾，写点有深度的</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#2017&lt;br&gt;一三五七八十腊，三十一天永不差，现在是2017年12月30日距离2018年还算是还有2天。真正意义上的一年新的开始应该是元旦，可是元旦往往不如新年有味道，自从不看电视看不到往年跨年晚会的宣传，我已经丧失了对新一年的感觉————————第三旋臂边缘的一颗蓝色行星上的碳基生物正在庆祝他们所在的行星又在该恒星系里完成了一次公转。   &lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="吐槽" scheme="kihsu.me/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>寒衣节</title>
+    <link href="kihsu.me/2017/11/21/home1/"/>
+    <id>kihsu.me/2017/11/21/home1/</id>
+    <published>2017-11-21T07:22:00.000Z</published>
+    <updated>2018-07-07T10:18:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>#寒衣节记事</p><p>##归途<br>说起寒衣节，前几天我还不知道叫寒衣节。只知道我的家乡每年上坟有清明节 <em>十月一</em> 过年。十月一就是寒衣节了。<br><a id="more"></a><br>我于寒衣节的前一天，出发回家。回家的路上一路走到距离我家近一点的集市才看到路上有买祭祀用品的。我以为只有我的老家才有这种节日。   </p><p>网上查了一下寒衣节的由来：</p><blockquote><p>寒衣节，又称祭祖节、包袱节、十月朝、过十月一，是中国传统节日，流行于华北，为每年的农历十月初一，是民间祭祖的日子， 相传祖灵会在本日回返人世，领取御寒衣物准备过冬，故人间除了祭祀之外，要烧化纸做的衣服，或者印有衣服图样的纸钱。也有地方只烧纸钱，不烧衣服。</p></blockquote><p>在买票回家的路上，车站遇到了一位发传单的女子，传单内容上写到她是聋哑人请你买它一本故事书5元钱。我接过传单准备放到一边，这时他走了过来像我要5元钱，我并不准备买书。就没有付钱，然后女子颇有一副强买强卖的架势，恶狠狠的抢过了传单，瞪了我一眼便扬长而去。</p><p>来时的路途比以往漫长，长途客车里面充斥着各种各样的气味，个种各样的人交谈，路途不会因为任何一个人的存在变得有趣或无趣经过漫长的路途，一路的颠簸，时远时近的山，终于走到了家里。<br>早上气温还比较热，晚上就别是一番滋味了。走下客车，北风呼啸，虽不是刺骨的寒风袭来，但身上的衣服略显积分单薄。北方的气温下降的总是这么快。</p><p>###归家<br>家这个词语听起来总是让人觉得那么温暖。对于经常回家的人可能会淡化不少。</p><p>##来兮<br>三天的时间总是那么匆忙，让”归途”显得那么着急。事实上真的挺着急。</p><ul><li>火车延误晚点</li><li>赶不上第二班火车</li><li>火车票作废换乘客车</li><li>长途客车只有3个人在司机的建议下换乘另一班客车</li><li>换乘客车途中丢了新买的耳机</li><li>一路颠簸回到学校</li></ul><p>返校的路途上，想了很多。</p><pre><code>不过我对我错过的火车有了执念</code></pre><p>end</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;#寒衣节记事&lt;/p&gt;
+&lt;p&gt;##归途&lt;br&gt;说起寒衣节，前几天我还不知道叫寒衣节。只知道我的家乡每年上坟有清明节 &lt;em&gt;十月一&lt;/em&gt; 过年。十月一就是寒衣节了。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="回家" scheme="kihsu.me/tags/%E5%9B%9E%E5%AE%B6/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>PAC模式下Telegram连不上的解决方法</title>
+    <link href="kihsu.me/2017/10/30/pac-tg/"/>
+    <id>kihsu.me/2017/10/30/pac-tg/</id>
+    <published>2017-10-29T16:16:00.000Z</published>
+    <updated>2018-07-07T10:19:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>在macos下，Telegram连接需要开全局才能连接，网易云音乐全局模式下听歌又会有版权问题。  </p></blockquote><a id="more"></a><h1 id="解决方法"><a href="#解决方法" class="headerlink" title="解决方法"></a>解决方法</h1><p>对tg设定代理即可127.0.0.1 1080<br><img src="https://ws1.sinaimg.cn/large/cdfad3c6gy1flpqkxdg6aj20ci0fbdgy.jpg" alt="tg"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;在macos下，Telegram连接需要开全局才能连接，网易云音乐全局模式下听歌又会有版权问题。  &lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="吐槽" scheme="kihsu.me/tags/%E5%90%90%E6%A7%BD/"/>
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="wall" scheme="kihsu.me/tags/wall/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>怂=follow heart</title>
+    <link href="kihsu.me/2017/10/24/boy/"/>
+    <id>kihsu.me/2017/10/24/boy/</id>
+    <published>2017-10-23T16:45:00.000Z</published>
+    <updated>2018-07-08T15:09:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<ul><li>怂等于follow my heart 命题为真</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;ul&gt;
+&lt;li&gt;怂等于follow my heart 命题为真&lt;/li&gt;
+&lt;/ul&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="macos" scheme="kihsu.me/tags/macos/"/>
+    
+      <category term="sad" scheme="kihsu.me/tags/sad/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Homebrew与brew cask安装与使用。</title>
+    <link href="kihsu.me/2017/09/17/brew-mac/"/>
+    <id>kihsu.me/2017/09/17/brew-mac/</id>
+    <published>2017-09-17T06:27:00.000Z</published>
+    <updated>2018-07-07T10:17:34.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Homebrew是一款自由及开放源代码的软件包管理系统，用以简化Mac OS X系统上的软件安装过程，最初由马克斯·霍威尔（Max Howell）写成</p><a id="more"></a><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><blockquote><p>1、安装brew 参考官网<a href="http://brew.sh/index_zh-cn.html" target="_blank" rel="noopener">http://brew.sh/index_zh-cn.html</a> </p></blockquote><pre><code>/usr/bin/ruby -e &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)&quot;</code></pre><blockquote><p>2、安装brew cask brew install brew-cask</p><p>错误提示： Could not link caskroom/cask manpages to:<br>/usr/local/share/man/man1/brew-cask.1</p><p>解决办法： brew untap phinze/homebrew-cask<br> brew tap caskroom/homebrew-cask<br>brew install brew-cask</p><p>安装成功。 测试： brew cask search</p></blockquote><h2 id="区别"><a href="#区别" class="headerlink" title="区别"></a>区别</h2><blockquote><p>brew 是从下载源码解压然后 ./configure &amp;&amp; make install ，同时会包含相关依存库。并自动配置好各种环<br>境变量，而且易于卸载。<br>而 brew cask 是已经编译好了的应用包 （.dmg/.pkg），仅仅是下载解压，放在统一的目录中（/opt/homebrew-<br>cask/Caskroom），省掉了自己去下载、解压、拖拽（安装）等蛋疼步骤，同样，卸载相当容易与干净。这个对一般用户来说会比较方便，包含很多在AppStore 里没有的常用软件。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Homebrew是一款自由及开放源代码的软件包管理系统，用以简化Mac OS X系统上的软件安装过程，最初由马克斯·霍威尔（Max Howell）写成&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="macos" scheme="kihsu.me/tags/macos/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安卓7.1.2去感叹号</title>
+    <link href="kihsu.me/2017/09/04/android-404/"/>
+    <id>kihsu.me/2017/09/04/android-404/</id>
+    <published>2017-09-04T05:31:00.000Z</published>
+    <updated>2018-07-07T10:16:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>原帖地址<a href="https://www.v2ex.com/t/303889" target="_blank" rel="noopener">https://www.v2ex.com/t/303889</a></p></blockquote><p>操作步骤<br>5.0 - 6.x教程</p><a id="more"></a><p>5和6还不支持HTTPS，直接修改即可</p><p>检测开关相关：</p><p>先处理开关状态，这个变量删除就是默认开启的，删除操作随意执行，反正没影响，删除状态下获取这个变量会返回null。<br>注意：如果关闭，则无法判断当前网络是否需要登录，无法自动弹出登录页面</p><p>删除<br>adb shell settings delete global captive_portal_server<br>禁用<br>adb shell settings put global captive_portal_server 0<br>查询状态<br>adb shell settings get global captive_portal_server<br>服务器地址相关：</p><p>删除地址就可以恢复默认的谷歌服务器<br>adb shell settings delete global captive_portal_server<br>设置一个可用地址（高通/V2EX都推荐）<br>adb shell settings put global captive_portal_server captive.v2ex.co<br>查询当前地址<br>adb shell settings get global captive_portal_server<br>7.0 - 7.1教程</p><p>这两个版本相比5和6没有大的更改，只是默认连接服务器的时候使用HTTPS，但是提供了一个开关用以指定是否使用HTTPS</p><p>检测开关相关：</p><p>同5.0 - 6.x<br>HTTPS开关相关：</p><p>删除（直接删除则默认使用HTTPS）<br>adb shell settings delete global captive_portal_use_https<br>禁用HTTPS（写1启用 写0禁用）<br>adb shell settings put global captive_portal_use_https 0<br>查询HTTPS开关状态<br>adb shell settings get global captive_portal_use_https<br>服务器地址相关：</p><p>（如果启用了HTTPS需要先确定地址是否支持HTTPS）</p><p>同5.0 - 6.x<br>7.1.1教程</p><p>这个版本把HTTPS和HTTP两个地址分开保存，并通过7.0加入的HTTPS开关来控制使用哪一个地址。</p><p>检测开关相关：</p><p>同5.0 - 6.x<br>HTTPS开关相关：</p><p>同7.0 - 7.1<br>服务器地址相关：</p><p>删除（删除默认用HTTPS）<br>adb shell settings delete global captive_portal_https_url<br>adb shell settings delete global captive_portal_http_url<br>分别修改两个地址<br>adb shell settings put global captive_portal_http_url <a href="http://captive.v2ex.co/generate_204" target="_blank" rel="noopener">http://captive.v2ex.co/generate_204</a><br>adb shell settings put global captive_portal_https_url <a href="https://captive.v2ex.co/generate_204" target="_blank" rel="noopener">https://captive.v2ex.co/generate_204</a><br>7.1.2教程</p><p>此版本服务器地址判断逻辑相比7.1.1没有更改，但是检测的开关却变了。</p><p>检测开关：</p><p>删除变量：（删除以后默认启用）<br>adb shell settings delete global captive_portal_mode<br>关闭检测：<br>adb shell settings put global captive_portal_mode 0<br>查看当前状态：<br>adb shell settings get global captive_portal_mode<br>服务器地址相关（同7.1.1）：</p><p>删除（删除默认用HTTPS）<br>adb shell settings delete global captive_portal_https_url<br>adb shell settings delete global captive_portal_http_url<br>分别修改两个地址<br>adb shell settings put global captive_portal_http_url <a href="http://captive.v2ex.co/generate_204" target="_blank" rel="noopener">http://captive.v2ex.co/generate_204</a><br>adb shell settings put global captive_portal_https_url <a href="https://captive.v2ex.co/generate_204" target="_blank" rel="noopener">https://captive.v2ex.co/generate_204</a><br>8.0.0同上7.1.2，未做修改</p><p>备选方案：完全关闭网络检查服务<br>如果你想一劳永逸，可以直接使用 ADB 命令关闭系统网络检查服务：</p><p>adb shell settings put global captive_portal_detection_enabled 0</p><p>需要说明的是，当遇到需要使用 portal 验证的网络（例如星巴克的免费无线网络）可能会无法连接。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;原帖地址&lt;a href=&quot;https://www.v2ex.com/t/303889&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.v2ex.com/t/303889&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;操作步骤&lt;br&gt;5.0 - 6.x教程&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="Android" scheme="kihsu.me/tags/Android/"/>
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>马上支日记(8)    -----鲁迅</title>
+    <link href="kihsu.me/2017/08/05/xun/"/>
+    <id>kihsu.me/2017/08/05/xun/</id>
+    <published>2017-08-05T15:09:00.000Z</published>
+    <updated>2018-07-08T15:08:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>　　七月六日晴。</p><a id="more"></a><p>　　午后，到前门外去买药。配好之后，付过钱，就站在柜台前喝了一回份。其理由有三：一，已经停了一天了，应该早喝；二，尝尝味道，是否不错的；三，天气太热，实在有点口渴了。</p><p>　　不料有一个买客却看得奇怪起来。我不解这有什么可以奇怪的；然而他竟奇怪起来了，悄悄地向店伙道：</p><p>　　“那是戒烟药水罢？”</p><p>　　“不是的！”店伙替我维持名誉。</p><p>　　“这是戒大烟的罢？”他于是直接地问我了。</p><p>　　我觉得倘不将这药认作“戒烟药水”，他大概是死不瞑目的。人生几何，何必固执，我便似点非点的将头一动，同时请出我那“介乎两可之间”的好回答来：</p><p>　　“唔唔……”</p><p>　　这既不伤店伙的好意，又可以聊慰他热烈的期望，该是一帖妙药。果然，从此万籁无声，天下太平，我在安静中塞好瓶塞，走到街上了。</p><p>　　到中央公园[42]，径向约定的一个僻静处所，寿山[43]已先到，略一休息，便开手对译《小约翰》[44]。这是一本好书，然而得来却是偶然的事。大约二十年前，我在日本东京的旧书店头买到几十本旧的德文文学杂志，内中有着这书的绍介和作者的评传，因为那时刚译成德文。觉得有趣，便托丸善书店去买来了；想译，没有这力。后来也常常想到，但总为别的事情岔开；直到去年，才决计在暑假中将它译好，并且登出广告去，而不料那一暑假过得比别的时候还艰难。今年又记得起来，翻检一过，疑难之处很不少，还是没有这力。问寿山可肯同译，他答应了，于是开手；并且约定，必须在这暑假期中译完。</p><p>　　晚上回家，吃了一点饭，就坐在院子里乘凉。田妈告诉我，今天下午，斜对门的谁家的婆婆和儿媳大吵了一通嘴。据她看来，婆婆自然有些错，但究竟是儿媳妇太不合道理了。问我的意思，以为何如。我先就没有听清吵嘴的是谁家，也不知道是怎样的两个婆媳，更没有听到她们的来言去语，明白她们的旧恨新仇。现在要我加以裁判，委实有点不敢自信，况且我又向来并不是批评家。我于是只得说：这事我无从断定。</p><p>　　但是这句话的结果很坏。在昏暗中，虽然看不见脸色，耳朵中却听到：一切声音都寂然了。静，沉闷的静；后来还有人站起，走开。</p><p>　　我也无聊地慢慢地站起，走进自己的屋子里，点了灯，躺在床上看晚报；看了几行，又无聊起来了，便碰到东壁下去写日记，就是这《马上支日记》。</p><p>　　院子里又渐渐地有了谈笑声，谠论声。</p><p>　　今天的运气似乎很不佳：路人冤我喝“戒烟药水”，田妈说我……她怎么说，我不知道。但愿从明天起，不再这样。</p><p>　　=====【注释】=====</p><p>　　[42]中央公园：今北京中山公园。</p><p>　　[43]寿山：齐寿山（1881—1965），名宗颐，河北高阳人，德国柏林大学毕业，曾任北洋政府教育部佥事、视学。</p><p>　　[44]《小约翰》：长篇童话，荷兰望·蔼覃著。鲁迅译本收入《未名丛刊》，一九二八年一月出版。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;　　七月六日晴。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="摘抄" scheme="kihsu.me/tags/%E6%91%98%E6%8A%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于typecho使用非主域名引起的css文件不加载的问题</title>
+    <link href="kihsu.me/2017/08/04/type-css/"/>
+    <id>kihsu.me/2017/08/04/type-css/</id>
+    <published>2017-08-04T01:00:00.000Z</published>
+    <updated>2018-07-07T10:20:06.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="最佳方法："><a href="#最佳方法：" class="headerlink" title="最佳方法："></a>最佳方法：</h2><p>去数据库里把默认地址删掉</p><h2 id="方法一："><a href="#方法一：" class="headerlink" title="方法一："></a>方法一：</h2><pre><code>修改 typecho 源码 使之支持多个域名, 并且 全站链接 保持与域名一致.</code></pre><a id="more"></a><pre><code>1. 存储位置typecho_options 表中 siteUrl 字段存储着 本站域名,所有本站链接 都用它作为 根路径的.想换域名的话, 简单的修改这个字段就行了.但是当有多个域名时, 想要每个域名内的 链接 都正常的话, 需要修改 typecho 源码了.2. 相关代码typecho 中所有 使用 siteUrl 的地方 都是通过 Widget_Options 类内一个变量 siteUrl 实现的.在 Widget_Options-&gt;execute() 中, 它从 数据库 读出 typecho_options 表.siteUrl 存储进了 Widget_Options-&gt;row,Widget_Options 的 父类 Typecho_Widget 中 通过 __get() __set() 实现$this-&gt;xxx 直接 访问 $this-&gt;row[&apos;xxx&apos;] 的效果.所以直接在 Widget_Options 中 print_r($this) 是看不到 siteUrl 的, 但在 $this-&gt;row 能看到他们的踪影.3. 修改代码在 Widget_Options-&gt;execute() 中if($_SERVER[&apos;SERVER_NAME&apos;]==&apos;note.yurenchen.com&apos;){//chen added    $this-&gt;siteUrl = &apos;http://note.yurenchen.com&apos;;    }/** 初始化站点信息 */$this-&gt;siteUrl = Typecho_Common::url(NULL, $this-&gt;siteUrl);$this-&gt;plugins = unserialize($this-&gt;plugins);end现在 note.yurenchen.com 和 yurenchen.sinaapp.com 都可以访问本站了.前者 会解析到 海外服务器, 后者则是 国内服务器.</code></pre><p>原帖url <a href="http://note.yurenchen.com/archives/typecho_siteUrl.html" target="_blank" rel="noopener">http://note.yurenchen.com/archives/typecho_siteUrl.html</a></p><h2 id="方法二："><a href="#方法二：" class="headerlink" title="方法二："></a>方法二：</h2><pre><code>在config.inc.php中定义Helper::options()-&gt;siteUrl=&apos;http://www.qqdie.com&apos;;（要放在数据库初始化之后，也就是最后）</code></pre><p>参考<a href="https://qqdie.com/archives/typecho_siteUrl-add.html" target="_blank" rel="noopener">https://qqdie.com/archives/typecho_siteUrl-add.html</a></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;h2 id=&quot;最佳方法：&quot;&gt;&lt;a href=&quot;#最佳方法：&quot; class=&quot;headerlink&quot; title=&quot;最佳方法：&quot;&gt;&lt;/a&gt;最佳方法：&lt;/h2&gt;&lt;p&gt;去数据库里把默认地址删掉&lt;/p&gt;
+&lt;h2 id=&quot;方法一：&quot;&gt;&lt;a href=&quot;#方法一：&quot; class=&quot;headerlink&quot; title=&quot;方法一：&quot;&gt;&lt;/a&gt;方法一：&lt;/h2&gt;&lt;pre&gt;&lt;code&gt;修改 typecho 源码 使之支持多个域名, 并且 全站链接 保持与域名一致.
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="website" scheme="kihsu.me/tags/website/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>音乐！</title>
+    <link href="kihsu.me/2017/08/02/music-unlock163/"/>
+    <id>kihsu.me/2017/08/02/music-unlock163/</id>
+    <published>2017-08-01T17:11:00.000Z</published>
+    <updated>2018-07-07T10:19:10.000Z</updated>
+    
+    <content type="html"><![CDATA[<pre><code>注:以下都是废话！！</code></pre><a id="more"></a><p>前几篇文章写的是如何，从百度云中下载文件。<br>为什么要下载文件？<br>因为有些歌网易云没有版权，<br>下载太累了！<br>我以为音量增强器不能用了，问了下好友，还是能用的。<br>还是用xposed框架app吧！<br><a href="https://github.com/bin456789/unblock163musicclient-xposed/releases" target="_blank" rel="noopener">音量增强器</a><br>感谢作者，让我不在疲于各个app听歌</p><p>一年不用xposed，还是用框架爽<br>           旦</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;pre&gt;&lt;code&gt;注:以下都是废话！！
+&lt;/code&gt;&lt;/pre&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="music" scheme="kihsu.me/tags/music/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用BaiduExporter和Aria2GUI for MAC OS X下载百度云文件。。</title>
+    <link href="kihsu.me/2017/07/31/download-aria2/"/>
+    <id>kihsu.me/2017/07/31/download-aria2/</id>
+    <published>2017-07-31T01:18:00.000Z</published>
+    <updated>2018-07-07T10:17:59.000Z</updated>
+    
+    <content type="html"><![CDATA[<ol><li>安装Aria2GUI</li></ol><a id="more"></a><blockquote><p>Features:</p><p>集成aria2c 多线程下载 未完成任务退出自动保存 支持网盘的aria2导出（需要浏览器插件支持） 支持PT/BT<br>在Badge显示整体下载速度 任务完成通知 Usage:</p><p>解压后拖到应用里面运行即可<br>Download:<a href="https://github.com/yangshun1029/aria2gui/releases" target="_blank" rel="noopener">地址</a><br>作者github ：<a href="https://github.com/yangshun1029/aria2gui" target="_blank" rel="noopener">github</a></p></blockquote><!--more--><ol start="2"><li>chrome安装BaiduExporter</li></ol><blockquote><p>下载地址   <a href="https://github.com/acgotaku/BaiduExporter" target="_blank" rel="noopener">https://github.com/acgotaku/BaiduExporter</a></p></blockquote><ol start="3"><li>开始下载<br><img src="https://ws1.sinaimg.cn/large/cdfad3c6ly1fi2t5ntujsj20uc0d5gnn.jpg" alt="请输入图片描述"></li></ol><p><img src="https://ws1.sinaimg.cn/large/cdfad3c6ly1fi2t6n8t00j20p00ic0wh.jpg" alt="请输入图片描述"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;ol&gt;
+&lt;li&gt;安装Aria2GUI&lt;/li&gt;
+&lt;/ol&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="macos" scheme="kihsu.me/tags/macos/"/>
+    
+      <category term="download" scheme="kihsu.me/tags/download/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>macos优雅下载百度网盘文件。</title>
+    <link href="kihsu.me/2017/07/30/macos-download-baidu/"/>
+    <id>kihsu.me/2017/07/30/macos-download-baidu/</id>
+    <published>2017-07-30T07:30:00.000Z</published>
+    <updated>2018-07-07T10:18:52.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>在win下有很多百度网盘的破解版本，而在mac下却没有，但是又不能不用百度网盘，偶尔用一次开个超级会员不合算，所以我给大家介绍如何在mac下优雅下载百度网盘文件。<br><a id="more"></a></p></blockquote><ol><li><a href="http://tampermonkey.net/" target="_blank" rel="noopener">下载Tampermonkey</a></li></ol><p>Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器，它适用于 Chrome, Microsoft Edge, Safari, Opera Next, 和 Firefox。<br>虽然有些受支持的浏览器拥有原生的用户脚本支持，但 Tampermonkey 将在您的用户脚本管理方面提供更多的便利。 它提供了诸如便捷脚本安装、自动更新检查、标签中的脚本运行状况速览、内置的编辑器等众多功能， 同时Tampermonkey还有可能正常运行原本并不兼容的脚本。 </p><p>2.<a href="https://greasyfork.org/zh-CN/scripts/23635-%E7%99%BE%E5%BA%A6%E7%BD%91%E7%9B%98%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E5%8A%A9%E6%89%8B" target="_blank" rel="noopener">安装Tampermonkey百度云脚本</a><br>脚本并不支持直接下载所以需要分享给自己一下，然后再分享页面选择外部下载。<br><img src="https://ws1.sinaimg.cn/large/cdfad3c6gy1fi1yalp1rjj20sc0iaada.jpg" alt="下载"></p><p>3.复制到mac下的下载器开始下载 <a href="https://www.baidu.com/link?url=HLbYLPxU119WLOU4LTeb7Pt1y8VmYEo6skvlpqg03YhGf39k5u62AcxLmbwwaMMm96inrdGh20w9uje_9JGCGB5Me1Va7FKQwFjwa5acTge&amp;wd=&amp;eqid=a6fa7a3b000038b600000004597d8d4b" target="_blank" rel="noopener">iGetter</a></p><p>然后开始多线程下载吧。</p><p><img src="https://ws1.sinaimg.cn/large/cdfad3c6gy1fi1ydkzfepj20go0g6n0x.jpg" alt="开始下载"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;在win下有很多百度网盘的破解版本，而在mac下却没有，但是又不能不用百度网盘，偶尔用一次开个超级会员不合算，所以我给大家介绍如何在mac下优雅下载百度网盘文件。&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="macos" scheme="kihsu.me/tags/macos/"/>
+    
+      <category term="download" scheme="kihsu.me/tags/download/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Redmi note4x刷国际版</title>
+    <link href="kihsu.me/2017/06/08/redminote4-625/"/>
+    <id>kihsu.me/2017/06/08/redminote4-625/</id>
+    <published>2017-06-08T08:59:00.000Z</published>
+    <updated>2018-07-07T10:19:44.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><p>6月份狗东特供版799红米Note4X，看着不错就入了一个。买来发现MIUI果然还是有广告的遂刷入国际版miui</p></blockquote><a id="more"></a><h2 id="解锁"><a href="#解锁" class="headerlink" title="解锁"></a>解锁</h2><blockquote><p>魅族用久了连刷机都不会了，一开始想着不解锁直接用miflash刷入国际版，后来发现不解锁米flash也无法刷入，于是准备解锁。</p></blockquote><ul><li>首先去<a href="http://www.miui.com/unlock/index.html" target="_blank" rel="noopener">miui解锁的网站</a>申请解锁，由于我的小米ID没有申请过解锁所以首先申请解锁（我解锁理由填写的我是第三方ROM开发者），过了大约1个小时就通过申请了。</li><li>通过后下载解锁工具解锁<img src="https://www.kihsu.me/usr/uploads/2017/06/2301189162.png" alt="QQ20170608-171315.png">，下载解锁工具后如果你是新机你会发现绑定账号未满72小时无法解锁，不过没关系，用1.1版本的解锁工具就可以了。<a href="http://www.3987.com/xiazai/2/38/Applications/55423.html" target="_blank" rel="noopener">1.1版本下载链接（第三方下载站有广告哦）</a></li><li>根据解锁提示进入fastboot解锁，就会提示解锁成功。<h2 id="刷入twrp"><a href="#刷入twrp" class="headerlink" title="刷入twrp"></a>刷入twrp</h2></li><li>twrp下载地址<a href="http://www.miui.com/forum.php?mod=viewthread&amp;tid=7289240" target="_blank" rel="noopener">包含教程</a><h2 id="国际版下载地址"><a href="#国际版下载地址" class="headerlink" title="国际版下载地址"></a>国际版下载地址</h2></li><li>国外的骁龙版的redmi note4 就是国内的红米Note4x<a href="http://en.miui.com/download-321.html" target="_blank" rel="noopener">下载链接</a></li></ul><hr><blockquote><p>最后twrp刷入就可以了。</p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;
+&lt;p&gt;6月份狗东特供版799红米Note4X，看着不错就入了一个。买来发现MIUI果然还是有广告的遂刷入国际版miui&lt;/p&gt;
+&lt;/blockquote&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="Android" scheme="kihsu.me/tags/Android/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>安装WordPress主题及插件需要输入FTP问题</title>
+    <link href="kihsu.me/2017/06/08/wordpress-ftp/"/>
+    <id>kihsu.me/2017/06/08/wordpress-ftp/</id>
+    <published>2017-06-08T05:23:00.000Z</published>
+    <updated>2018-07-07T10:20:48.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近安装WordPress 后发现给足权限还是不能安装主题和插件，后来百度了下发现解决方法</p><a id="more"></a><blockquote><p>使用Wordpress程序架构的网站如果需要在网站后台升级、安装主题或者插件的时候，总是会提示需要我们提供FTP信息的界面。有这样的字样提示”要执行请求的操作，WordPress需要访问您网页服务器的权限。请输入您的FTP登陆凭据以继续。如果您忘记了您的登陆凭据(如用户名、密码)，请联系您的网站托管商”。这个是比较麻烦的，现在就尝试解决一下！</p></blockquote><pre><code>define(&quot;FS_METHOD&quot;,&quot;direct&quot;);define(&quot;FS_CHMOD_DIR&quot;, 0777);define(&quot;FS_CHMOD_FILE&quot;, 0777);</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近安装WordPress 后发现给足权限还是不能安装主题和插件，后来百度了下发现解决方法&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="website" scheme="kihsu.me/tags/website/"/>
+    
+      <category term="wordpress" scheme="kihsu.me/tags/wordpress/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>markdown简介</title>
+    <link href="kihsu.me/2017/05/01/markdown/"/>
+    <id>kihsu.me/2017/05/01/markdown/</id>
+    <published>2017-05-01T11:48:00.000Z</published>
+    <updated>2018-07-07T10:19:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>NOTE:</strong> This is Simplelified  Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document. Please refer to <a href="http://daringfireball.net/projects/markdown/syntax" target="_blank" rel="noopener">Markdown: Syntax</a>.</p><p><strong>声明：</strong> 这份文档派生(fork)于<a href="http://markdown.tw/" target="_blank" rel="noopener">繁体中文版</a>，在此基础上进行了繁体转简体工作，并进行了适当的润色。此文档用 Markdown 语法编写，你可以到这里<a href="http://gitcafe.com/riku/Markdown-Syntax-CN/blob/master/syntax.md" target="_blank" rel="noopener">查看它的源文件</a>。「繁体中文版的原始文件可以<a href="https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md" target="_blank" rel="noopener">查看这里</a> 。」–By @<a href="http://twitter.com/riku" target="_blank" rel="noopener">riku</a> / 本项目托管于 <a href="http://gitcafe.com/riku/Markdown-Syntax-CN" target="_blank" rel="noopener">GitCafe</a></p><p><strong>注：</strong> 本项目同时也托管于 <a href="https://github.com/riku/Markdown-Syntax-CN" target="_blank" rel="noopener">Github</a> 上，请通过 fork＋pull request 方式来帮忙改进本项目。</p><h1>Markdown 语法说明 (简体中文版) / (<a href="./basic.html">点击查看快速入门</a>)</h1><ul><br><li><a href="#overview">概述</a><br><ul><br><li><a href="#philosophy">宗旨</a></li><br><li><a href="#html">兼容 HTML</a></li><br><li><a href="#autoescape">特殊字符自动转换</a></li><br></ul></li><br><li><a href="#block">区块元素</a><br><ul><br><li><a href="#p">段落和换行</a></li><br><li><a href="#header">标题</a></li><br><li><a href="#blockquote">区块引用</a></li><br><li><a href="#list">列表</a></li><br><li><a href="#precode">代码区块</a></li><br><li><a href="#hr">分隔线</a></li><br></ul></li><br><li><a href="#span">区段元素</a><br><ul><br><li><a href="#link">链接</a></li><br><li><a href="#em">强调</a></li><br><li><a href="#code">代码</a></li><br><li><a href="#img">图片</a></li><br></ul></li><br><li><a href="#misc">其它</a><br><ul><br><li><a href="#backslash">反斜杠</a></li><br><li><a href="#autolink">自动链接</a></li><br></ul></li><br><li><a href="#acknowledgement">感谢</a></li><br></ul><hr><h2 id="overview">概述</h2><h3 id="philosophy">宗旨</h3><p>Markdown 的目标是实现「易读易写」。</p><p>可读性，无论如何，都是最重要的。一份使用 Markdown 格式撰写的文件应该可以直接以纯文本发布，并且看起来不会像是由许多标签或是格式指令所构成。Markdown 语法受到一些既有 text-to-HTML 格式的影响，包括 <a href="http://docutils.sourceforge.net/mirror/setext.html" target="_blank" rel="noopener">Setext</a>、<a href="http://www.aaronsw.com/2002/atx/" target="_blank" rel="noopener">atx</a>、<a href="http://textism.com/tools/textile/" target="_blank" rel="noopener">Textile</a>、<a href="http://docutils.sourceforge.net/rst.html" target="_blank" rel="noopener">reStructuredText</a>、<a href="http://www.triptico.com/software/grutatxt.html" target="_blank" rel="noopener">Grutatext</a> 和 <a href="http://ettext.taint.org/doc/" target="_blank" rel="noopener">EtText</a>，而最大灵感来源其实是纯文本电子邮件的格式。</p><p>总之， Markdown 的语法全由一些符号所组成，这些符号经过精挑细选，其作用一目了然。比如：在文字两旁加上星号，看起来就像<em>强调</em>。Markdown 的列表看起来，嗯，就是列表。Markdown 的区块引用看起来就真的像是引用一段文字，就像你曾在电子邮件中见过的那样。</p><h3 id="html">兼容 HTML</h3><p>Markdown 语法的目标是：成为一种适用于网络的<em>书写</em>语言。</p><p>Markdown 不是想要取代 HTML，甚至也没有要和它相近，它的语法种类很少，只对应 HTML 标记的一小部分。Markdown 的构想<em>不是</em>要使得 HTML 文档更容易书写。在我看来， HTML 已经很容易写了。Markdown 的理念是，能让文档更容易读、写和随意改。HTML 是一种<em>发布</em>的格式，Markdown 是一种<em>书写</em>的格式。就这样，Markdown 的格式语法只涵盖纯文本可以涵盖的范围。</p><p>不在 Markdown 涵盖范围之内的标签，都可以直接在文档里面用 HTML 撰写。不需要额外标注这是 HTML 或是 Markdown；只要直接加标签就可以了。</p><p>要制约的只有一些 HTML 区块元素――比如 <code>&lt;div&gt;</code>、<code>&lt;table&gt;</code>、<code>&lt;pre&gt;</code>、<code>&lt;p&gt;</code> 等标签，必须在前后加上空行与其它内容区隔开，还要求它们的开始标签与结尾标签不能用制表符或空格来缩进。Markdown 的生成器有足够智能，不会在 HTML 区块标签外加上不必要的 <code>&lt;p&gt;</code> 标签。</p><p>例子如下，在 Markdown 文件里加上一段 HTML 表格：</p><pre><code>这是一个普通段落。&lt;table&gt;    &lt;tr&gt;        &lt;td&gt;Foo&lt;/td&gt;    &lt;/tr&gt;&lt;/table&gt;这是另一个普通段落。</code></pre><p>请注意，在 HTML 区块标签间的 Markdown 格式语法将不会被处理。比如，你在 HTML 区块内使用 Markdown 样式的<code><em>强调</em></code>会没有效果。</p><p>HTML 的区段（行内）标签如 <code>&lt;span&gt;</code>、<code>&lt;cite&gt;</code>、<code>&lt;del&gt;</code> 可以在 Markdown 的段落、列表或是标题里随意使用。依照个人习惯，甚至可以不用 Markdown 格式，而直接采用 HTML 标签来格式化。举例说明：如果比较喜欢 HTML 的 <code>&lt;a&gt;</code> 或 <code>&lt;img&gt;</code> 标签，可以直接使用这些标签，而不用 Markdown 提供的链接或是图像标签语法。</p><p>和处在 HTML 区块标签间不同，Markdown 语法在 HTML 区段标签间是有效的。</p><h3 id="autoescape">特殊字符自动转换</h3><p>在 HTML 文件中，有两个字符需要特殊处理： <code>&lt;</code> 和 <code>&amp;</code> 。 <code>&lt;</code> 符号用于起始标签，<code>&amp;</code> 符号则用于标记 HTML 实体，如果你只是想要显示这些字符的原型，你必须要使用实体的形式，像是 <code>&amp;lt;</code> 和 <code>&amp;amp;</code>。</p><p><code>&amp;</code> 字符尤其让网络文档编写者受折磨，如果你要打「<code>AT&amp;T</code>」 ，你必须要写成「<code>AT&amp;amp;T</code>」。而网址中的 <code>&amp;</code> 字符也要转换。比如你要链接到：</p><pre><code>http://images.google.com/images?num=30&amp;q=larry+bird</code></pre><p>你必须要把网址转换写为：</p><pre><code>http://images.google.com/images?num=30&amp;amp;q=larry+bird</code></pre><p>才能放到链接标签的 <code>href</code> 属性里。不用说也知道这很容易忽略，这也可能是 HTML 标准检验所检查到的错误中，数量最多的。</p><p>Markdown 让你可以自然地书写字符，需要转换的由它来处理好了。如果你使用的 <code>&amp;</code> 字符是 HTML 字符实体的一部分，它会保留原状，否则它会被转换成 <code>&amp;amp</code>;。</p><p>所以你如果要在文档中插入一个版权符号 <code>©</code>，你可以这样写：</p><pre><code>&amp;copy;</code></pre><p>Markdown 会保留它不动。而若你写：</p><pre><code>AT&amp;T</code></pre><p>Markdown 就会将它转为：</p><pre><code>AT&amp;amp;T</code></pre><p>类似的状况也会发生在 <code>&lt;</code> 符号上，因为 Markdown 允许 <a href="#html">兼容 HTML</a> ，如果你是把 <code>&lt;</code> 符号作为 HTML 标签的定界符使用，那 Markdown 也不会对它做任何转换，但是如果你写：</p><pre><code>4 &lt; 5</code></pre><p>Markdown 将会把它转换为：</p><pre><code>4 &amp;lt; 5</code></pre><p>不过需要注意的是，code 范围内，不论是行内还是区块， <code>&lt;</code> 和 <code>&amp;</code> 两个符号都<em>一定</em>会被转换成 HTML 实体，这项特性让你可以很容易地用 Markdown 写 HTML code （和 HTML 相对而言， HTML 语法中，你要把所有的 <code>&lt;</code> 和 <code>&amp;</code> 都转换为 HTML 实体，才能在 HTML 文件里面写出 HTML code。）</p><hr><h2 id="block">区块元素</h2><h3 id="p">段落和换行</h3><p>一个 Markdown 段落是由一个或多个连续的文本行组成，它的前后要有一个以上的空行（空行的定义是显示上看起来像是空的，便会被视为空行。比方说，若某一行只包含空格和制表符，则该行也会被视为空行）。普通段落不该用空格或制表符来缩进。</p><p>「由一个或多个连续的文本行组成」这句话其实暗示了 Markdown 允许段落内的强迫换行（插入换行符），这个特性和其他大部分的 text-to-HTML 格式不一样（包括 Movable Type 的「Convert Line Breaks」选项），其它的格式会把每个换行符都转成 <code>&lt;br /&gt;</code> 标签。</p><p>如果你<em>确实</em>想要依赖 Markdown 来插入 <code>&lt;br /&gt;</code> 标签的话，在插入处先按入两个以上的空格然后回车。</p><p>的确，需要多费点事（多加空格）来产生 <code>&lt;br /&gt;</code> ，但是简单地「每个换行都转换为 <code>&lt;br /&gt;</code>」的方法在 Markdown 中并不适合， Markdown 中 email 式的 <a href="#blockquote">区块引用</a> 和多段落的 <a href="#list">列表</a> 在使用换行来排版的时候，不但更好用，还更方便阅读。</p><h3 id="header">标题</h3><p>Markdown 支持两种标题的语法，类 <a href="http://docutils.sourceforge.net/mirror/setext.html" target="_blank" rel="noopener">Setext</a> 和类 <a href="http://www.aaronsw.com/2002/atx/" target="_blank" rel="noopener">atx</a> 形式。</p><p>类 Setext 形式是用底线的形式，利用 <code>=</code> （最高阶标题）和 <code>-</code> （第二阶标题），例如：</p><pre><code>This is an H1=============This is an H2-------------</code></pre><p>任何数量的 <code>=</code> 和 <code>-</code> 都可以有效果。</p><p>类 Atx 形式则是在行首插入 1 到 6 个 <code>#</code> ，对应到标题 1 到 6 阶，例如：</p><pre><code># 这是 H1## 这是 H2###### 这是 H6</code></pre><p>你可以选择性地「闭合」类 atx 样式的标题，这纯粹只是美观用的，若是觉得这样看起来比较舒适，你就可以在行尾加上 <code>#</code>，而行尾的 <code>#</code> 数量也不用和开头一样（行首的井字符数量决定标题的阶数）：</p><pre><code># 这是 H1 ### 这是 H2 ##### 这是 H3 ######</code></pre><h3 id="blockquote">区块引用 Blockquotes</h3><p>Markdown 标记区块引用是使用类似 email 中用 <code>&gt;</code> 的引用方式。如果你还熟悉在 email 信件中的引言部分，你就知道怎么在 Markdown 文件中建立一个区块引用，那会看起来像是你自己先断好行，然后在每行的最前面加上 <code>&gt;</code> ：</p><pre><code>&gt; This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,&gt; consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.&gt; Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&gt; &gt; Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse&gt; id sem consectetuer libero luctus adipiscing.</code></pre><p>Markdown 也允许你偷懒只在整个段落的第一行最前面加上 <code>&gt;</code> ：</p><pre><code>&gt; This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.&gt; Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisseid sem consectetuer libero luctus adipiscing.</code></pre><p>区块引用可以嵌套（例如：引用内的引用），只要根据层次加上不同数量的 <code>&gt;</code> ：</p><pre><code>&gt; This is the first level of quoting.&gt;&gt; &gt; This is nested blockquote.&gt;&gt; Back to the first level.</code></pre><p>引用的区块内也可以使用其他的 Markdown 语法，包括标题、列表、代码区块等：</p><pre><code>&gt; ## 这是一个标题。&gt; &gt; 1.   这是第一行列表项。&gt; 2.   这是第二行列表项。&gt; &gt; 给出一些例子代码：&gt; &gt;     return shell_exec("echo $input | $markdown_script");</code></pre><p>任何像样的文本编辑器都能轻松地建立 email 型的引用。例如在 BBEdit 中，你可以选取文字后然后从选单中选择<em>增加引用阶层</em>。</p><h3 id="list">列表</h3><p>Markdown 支持有序列表和无序列表。</p><p>无序列表使用星号、加号或是减号作为列表标记：</p><pre><code>*   Red*   Green*   Blue</code></pre><p>等同于：</p><pre><code>+   Red+   Green+   Blue</code></pre><p>也等同于：</p><pre><code>-   Red-   Green-   Blue</code></pre><p>有序列表则使用数字接着一个英文句点：</p><pre><code>1.  Bird2.  McHale3.  Parish</code></pre><p>很重要的一点是，你在列表标记上使用的数字并不会影响输出的 HTML 结果，上面的列表所产生的 HTML 标记为：</p><pre><code>&lt;ol&gt;&lt;li&gt;Bird&lt;/li&gt;&lt;li&gt;McHale&lt;/li&gt;&lt;li&gt;Parish&lt;/li&gt;&lt;/ol&gt;</code></pre><p>如果你的列表标记写成：</p><pre><code>1.  Bird1.  McHale1.  Parish</code></pre><p>或甚至是：</p><pre><code>3. Bird1. McHale8. Parish</code></pre><p>你都会得到完全相同的 HTML 输出。重点在于，你可以让 Markdown 文件的列表数字和输出的结果相同，或是你懒一点，你可以完全不用在意数字的正确性。</p><p>如果你使用懒惰的写法，建议第一个项目最好还是从 1. 开始，因为 Markdown 未来可能会支持有序列表的 start 属性。</p><p>列表项目标记通常是放在最左边，但是其实也可以缩进，最多 3 个空格，项目标记后面则一定要接着至少一个空格或制表符。</p><p>要让列表看起来更漂亮，你可以把内容用固定的缩进整理好：</p><pre><code>*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.    Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,    viverra nec, fringilla in, laoreet vitae, risus.*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.    Suspendisse id sem consectetuer libero luctus adipiscing.</code></pre><p>但是如果你懒，那也行：</p><pre><code>*   Lorem ipsum dolor sit amet, consectetuer adipiscing elit.Aliquam hendrerit mi posuere lectus. Vestibulum enim wisi,viverra nec, fringilla in, laoreet vitae, risus.*   Donec sit amet nisl. Aliquam semper ipsum sit amet velit.Suspendisse id sem consectetuer libero luctus adipiscing.</code></pre><p>如果列表项目间用空行分开，在输出 HTML 时 Markdown 就会将项目内容用 <code>&lt;p&gt;</code><br>标签包起来，举例来说：</p><pre><code>*   Bird*   Magic</code></pre><p>会被转换为：</p><pre><code>&lt;ul&gt;&lt;li&gt;Bird&lt;/li&gt;&lt;li&gt;Magic&lt;/li&gt;&lt;/ul&gt;</code></pre><p>但是这个：</p><pre><code>*   Bird*   Magic</code></pre><p>会被转换为：</p><pre><code>&lt;ul&gt;&lt;li&gt;&lt;p&gt;Bird&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p&gt;Magic&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</code></pre><p>列表项目可以包含多个段落，每个项目下的段落都必须缩进 4 个空格或是 1 个制表符：</p><pre><code>1.  This is a list item with two paragraphs. Lorem ipsum dolor    sit amet, consectetuer adipiscing elit. Aliquam hendrerit    mi posuere lectus.    Vestibulum enim wisi, viverra nec, fringilla in, laoreet    vitae, risus. Donec sit amet nisl. Aliquam semper ipsum    sit amet velit.2.  Suspendisse id sem consectetuer libero luctus adipiscing.</code></pre><p>如果你每行都有缩进，看起来会看好很多，当然，再次地，如果你很懒惰，Markdown 也允许：</p><pre><code>*   This is a list item with two paragraphs.    This is the second paragraph in the list item. You'reonly required to indent the first line. Lorem ipsum dolorsit amet, consectetuer adipiscing elit.*   Another item in the same list.</code></pre><p>如果要在列表项目内放进引用，那 <code>&gt;</code> 就需要缩进：</p><pre><code>*   A list item with a blockquote:    &gt; This is a blockquote    &gt; inside a list item.</code></pre><p>如果要放代码区块的话，该区块就需要缩进<em>两次</em>，也就是 8 个空格或是 2 个制表符：</p><pre><code>*   一列表项包含一个列表区块：        &lt;代码写在这&gt;</code></pre><p>当然，项目列表很可能会不小心产生，像是下面这样的写法：</p><pre><code>1986. What a great season.</code></pre><p>换句话说，也就是在行首出现<em>数字-句点-空白</em>，要避免这样的状况，你可以在句点前面加上反斜杠。</p><pre><code>1986\. What a great season.</code></pre><h3 id="precode">代码区块</h3><p>和程序相关的写作或是标签语言原始码通常会有已经排版好的代码区块，通常这些区块我们并不希望它以一般段落文件的方式去排版，而是照原来的样子显示，Markdown 会用 <code>&lt;pre&gt;</code> 和 <code>&lt;code&gt;</code> 标签来把代码区块包起来。</p><p>要在 Markdown 中建立代码区块很简单，只要简单地缩进 4 个空格或是 1 个制表符就可以，例如，下面的输入：</p><pre><code>这是一个普通段落：    这是一个代码区块。</code></pre><p>Markdown 会转换成：</p><pre><code>&lt;p&gt;这是一个普通段落：&lt;/p&gt;&lt;pre&gt;&lt;code&gt;这是一个代码区块。&lt;/code&gt;&lt;/pre&gt;</code></pre><p>这个每行一阶的缩进（4 个空格或是 1 个制表符），都会被移除，例如：</p><pre><code>Here is an example of AppleScript:    tell application "Foo"        beep    end tell</code></pre><p>会被转换为：</p><pre><code>&lt;p&gt;Here is an example of AppleScript:&lt;/p&gt;&lt;pre&gt;&lt;code&gt;tell application "Foo"    beepend tell&lt;/code&gt;&lt;/pre&gt;</code></pre><p>一个代码区块会一直持续到没有缩进的那一行（或是文件结尾）。</p><p>在代码区块里面， <code>&amp;</code> 、 <code>&lt;</code> 和 <code>&gt;</code> 会自动转成 HTML 实体，这样的方式让你非常容易使用 Markdown 插入范例用的 HTML 原始码，只需要复制贴上，再加上缩进就可以了，剩下的 Markdown 都会帮你处理，例如：</p><pre><code>    &lt;div class="footer"&gt;        &amp;copy; 2004 Foo Corporation    &lt;/div&gt;</code></pre><p>会被转换为：</p><pre><code>&lt;pre&gt;&lt;code&gt;&amp;lt;div class="footer"&amp;gt;    &amp;amp;copy; 2004 Foo Corporation&amp;lt;/div&amp;gt;&lt;/code&gt;&lt;/pre&gt;</code></pre><p>代码区块中，一般的 Markdown 语法不会被转换，像是星号便只是星号，这表示你可以很容易地以 Markdown 语法撰写 Markdown 语法相关的文件。</p><h3 id="hr">分隔线</h3><p>你可以在一行中用三个以上的星号、减号、底线来建立一个分隔线，行内不能有其他东西。你也可以在星号或是减号中间插入空格。下面每种写法都可以建立分隔线：</p><pre><code>* * *********- - ----------------------------------------</code></pre><hr><h2 id="span">区段元素</h2><h3 id="link">链接</h3><p>Markdown 支持两种形式的链接语法： <em>行内式</em>和<em>参考式</em>两种形式。</p><p>不管是哪一种，链接文字都是用 [方括号] 来标记。</p><p>要建立一个<em>行内式</em>的链接，只要在方块括号后面紧接着圆括号并插入网址链接即可，如果你还想要加上链接的 title 文字，只要在网址后面，用双引号把 title 文字包起来即可，例如：</p><pre><code>This is [an example](http://example.com/ "Title") inline link.[This link](http://example.net/) has no title attribute.</code></pre><p>会产生：</p><pre><code>&lt;p&gt;This is &lt;a href="http://example.com/" title="Title"&gt;an example&lt;/a&gt; inline link.&lt;/p&gt;&lt;p&gt;&lt;a href="http://example.net/"&gt;This link&lt;/a&gt; has notitle attribute.&lt;/p&gt;</code></pre><p>如果你是要链接到同样主机的资源，你可以使用相对路径：</p><pre><code>See my [About](/about/) page for details.</code></pre><p><em>参考式</em>的链接是在链接文字的括号后面再接上另一个方括号，而在第二个方括号里面要填入用以辨识链接的标记：</p><pre><code>This is [an example][id] reference-style link.</code></pre><p>你也可以选择性地在两个方括号中间加上一个空格：</p><pre><code>This is [an example] [id] reference-style link.</code></pre><p>接着，在文件的任意处，你可以把这个标记的链接内容定义出来：</p><pre><code>[id]: http://example.com/  "Optional Title Here"</code></pre><p>链接内容定义的形式为：</p><ul><br><li>方括号（前面可以选择性地加上至多三个空格来缩进），里面输入链接文字</li><br><li>接着一个冒号</li><br><li>接着一个以上的空格或制表符</li><br><li>接着链接的网址</li><br><li>选择性地接着 title 内容，可以用单引号、双引号或是括弧包着</li><br></ul><p>下面这三种链接的定义都是相同：</p><pre><code>[foo]: http://example.com/  "Optional Title Here"[foo]: http://example.com/  'Optional Title Here'[foo]: http://example.com/  (Optional Title Here)</code></pre><p><strong>请注意：</strong>有一个已知的问题是 Markdown.pl 1.0.1 会忽略单引号包起来的链接 title。</p><p>链接网址也可以用方括号包起来：</p><pre><code>[id]: &lt;http://example.com/&gt;  "Optional Title Here"</code></pre><p>你也可以把 title 属性放到下一行，也可以加一些缩进，若网址太长的话，这样会比较好看：</p><pre><code>[id]: http://example.com/longish/path/to/resource/here    "Optional Title Here"</code></pre><p>网址定义只有在产生链接的时候用到，并不会直接出现在文件之中。</p><p>链接辨别标签可以有字母、数字、空白和标点符号，但是并<em>不</em>区分大小写，因此下面两个链接是一样的：</p><pre><code>[link text][a][link text][A]</code></pre><p><em>隐式链接标记</em>功能让你可以省略指定链接标记，这种情形下，链接标记会视为等同于链接文字，要用隐式链接标记只要在链接文字后面加上一个空的方括号，如果你要让 “Google” 链接到 google.com，你可以简化成：</p><pre><code>[Google][]</code></pre><p>然后定义链接内容：</p><pre><code>[Google]: http://google.com/</code></pre><p>由于链接文字可能包含空白，所以这种简化型的标记内也许包含多个单词：</p><pre><code>Visit [Daring Fireball][] for more information.</code></pre><p>然后接着定义链接：</p><pre><code>[Daring Fireball]: http://daringfireball.net/</code></pre><p>链接的定义可以放在文件中的任何一个地方，我比较偏好直接放在链接出现段落的后面，你也可以把它放在文件最后面，就像是注解一样。</p><p>下面是一个参考式链接的范例：</p><pre><code>I get 10 times more traffic from [Google] [1] than from[Yahoo] [2] or [MSN] [3].  [1]: http://google.com/        "Google"  [2]: http://search.yahoo.com/  "Yahoo Search"  [3]: http://search.msn.com/    "MSN Search"</code></pre><p>如果改成用链接名称的方式写：</p><pre><code>I get 10 times more traffic from [Google][] than from[Yahoo][] or [MSN][].  [google]: http://google.com/        "Google"  [yahoo]:  http://search.yahoo.com/  "Yahoo Search"  [msn]:    http://search.msn.com/    "MSN Search"</code></pre><p>上面两种写法都会产生下面的 HTML。</p><pre><code>&lt;p&gt;I get 10 times more traffic from &lt;a href="http://google.com/"title="Google"&gt;Google&lt;/a&gt; than from&lt;a href="http://search.yahoo.com/" title="Yahoo Search"&gt;Yahoo&lt;/a&gt;or &lt;a href="http://search.msn.com/" title="MSN Search"&gt;MSN&lt;/a&gt;.&lt;/p&gt;</code></pre><p>下面是用行内式写的同样一段内容的 Markdown 文件，提供作为比较之用：</p><pre><code>I get 10 times more traffic from [Google](http://google.com/ "Google")than from [Yahoo](http://search.yahoo.com/ "Yahoo Search") or[MSN](http://search.msn.com/ "MSN Search").</code></pre><p>参考式的链接其实重点不在于它比较好写，而是它比较好读，比较一下上面的范例，使用参考式的文章本身只有 81 个字符，但是用行内形式的却会增加到 176 个字元，如果是用纯 HTML 格式来写，会有 234 个字元，在 HTML 格式中，标签比文本还要多。</p><p>使用 Markdown 的参考式链接，可以让文件更像是浏览器最后产生的结果，让你可以把一些标记相关的元数据移到段落文字之外，你就可以增加链接而不让文章的阅读感觉被打断。</p><h3 id="em">强调</h3><p>Markdown 使用星号（<code><em></em></code>）和底线（<code>_</code>）作为标记强调字词的符号，被 <code></code> 或 <code><em></em></code> 包围的字词会被转成用 <code>&lt;em&gt;</code> 标签包围，用两个 <code>*</code> 或 <code></code> 包起来的话，则会被转成 <code>&lt;strong&gt;</code>，例如：</p><pre><code>*single asterisks*_single underscores_**double asterisks**__double underscores__</code></pre><p>会转成：</p><pre><code>&lt;em&gt;single asterisks&lt;/em&gt;&lt;em&gt;single underscores&lt;/em&gt;&lt;strong&gt;double asterisks&lt;/strong&gt;&lt;strong&gt;double underscores&lt;/strong&gt;</code></pre><p>你可以随便用你喜欢的样式，唯一的限制是，你用什么符号开启标签，就要用什么符号结束。</p><p>强调也可以直接插在文字中间：</p><pre><code>un*frigging*believable</code></pre><p>但是<strong>如果你的 <code>*</code> 和 <code>_</code> 两边都有空白的话，它们就只会被当成普通的符号</strong>。</p><p>如果要在文字前后直接插入普通的星号或底线，你可以用反斜线：</p><pre><code>\*this text is surrounded by literal asterisks\*</code></pre><h3 id="code">代码</h3><p>如果要标记一小段行内代码，你可以用反引号把它包起来（<code>`</code>），例如：</p><pre><code>Use the `printf()` function.</code></pre><p>会产生：</p><pre><code>&lt;p&gt;Use the &lt;code&gt;printf()&lt;/code&gt; function.&lt;/p&gt;</code></pre><p>如果要在代码区段内插入反引号，你可以用多个反引号来开启和结束代码区段：</p><pre><code>``There is a literal backtick (`) here.``</code></pre><p>这段语法会产生：</p><pre><code>&lt;p&gt;&lt;code&gt;There is a literal backtick (`) here.&lt;/code&gt;&lt;/p&gt;</code></pre><p>代码区段的起始和结束端都可以放入一个空白，起始端后面一个，结束端前面一个，这样你就可以在区段的一开始就插入反引号：</p><pre><code>A single backtick in a code span: `` ` ``A backtick-delimited string in a code span: `` `foo` ``</code></pre><p>会产生：</p><pre><code>&lt;p&gt;A single backtick in a code span: &lt;code&gt;`&lt;/code&gt;&lt;/p&gt;&lt;p&gt;A backtick-delimited string in a code span: &lt;code&gt;`foo`&lt;/code&gt;&lt;/p&gt;</code></pre><p>在代码区段内，<code>&amp;</code> 和方括号<strong>都</strong>会被自动地转成 HTML 实体，这使得插入 HTML 原始码变得很容易，Markdown 会把下面这段：</p><pre><code>Please don't use any `&lt;blink&gt;` tags.</code></pre><p>转为：</p><pre><code>&lt;p&gt;Please don't use any &lt;code&gt;&amp;lt;blink&amp;gt;&lt;/code&gt; tags.&lt;/p&gt;</code></pre><p>你也可以这样写：</p><pre><code>`&amp;#8212;` is the decimal-encoded equivalent of `&amp;mdash;`.</code></pre><p>以产生：</p><pre><code>&lt;p&gt;&lt;code&gt;&amp;amp;#8212;&lt;/code&gt; is the decimal-encodedequivalent of &lt;code&gt;&amp;amp;mdash;&lt;/code&gt;.&lt;/p&gt;</code></pre><h3 id="img">图片</h3><p>很明显地，要在纯文字应用中设计一个「自然」的语法来插入图片是有一定难度的。</p><p>Markdown 使用一种和链接很相似的语法来标记图片，同样也允许两种样式： <em>行内式</em>和<em>参考式</em>。</p><p>行内式的图片语法看起来像是：</p><pre><code>![Alt text](/path/to/img.jpg)![Alt text](/path/to/img.jpg "Optional title")</code></pre><p>详细叙述如下：</p><ul><br><li>一个惊叹号 <code>!</code></li><br><li>接着一个方括号，里面放上图片的替代文字</li><br><li>接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上<br>选择性的 ‘title’ 文字。</li><br></ul><p>参考式的图片语法则长得像这样：</p><pre><code>![Alt text][id]</code></pre><p>「id」是图片参考的名称，图片参考的定义方式则和连结参考一样：</p><pre><code>[id]: url/to/image  "Optional title attribute"</code></pre><p>到目前为止， Markdown 还没有办法指定图片的宽高，如果你需要的话，你可以使用普通的 <code>&lt;img&gt;</code> 标签。</p><hr><h2 id="misc">其它</h2><h3 id="autolink">自动链接</h3><p>Markdown 支持以比较简短的自动链接形式来处理网址和电子邮件信箱，只要是用方括号包起来， Markdown 就会自动把它转成链接。一般网址的链接文字就和链接地址一样，例如：</p><pre><code>&lt;http://example.com/&gt;</code></pre><p>Markdown 会转为：</p><pre><code>&lt;a href="http://example.com/"&gt;http://example.com/&lt;/a&gt;</code></pre><p>邮址的自动链接也很类似，只是 Markdown 会先做一个编码转换的过程，把文字字符转成 16 进位码的 HTML 实体，这样的格式可以糊弄一些不好的邮址收集机器人，例如：</p><pre><code>&lt;address@example.com&gt;</code></pre><p>Markdown 会转成：</p><pre><code>&lt;a href="&amp;#x6D;&amp;#x61;i&amp;#x6C;&amp;#x74;&amp;#x6F;:&amp;#x61;&amp;#x64;&amp;#x64;&amp;#x72;&amp;#x65;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#x61;&amp;#109;&amp;#x70;&amp;#x6C;e&amp;#x2E;&amp;#99;&amp;#111;&amp;#109;"&gt;&amp;#x61;&amp;#x64;&amp;#x64;&amp;#x72;&amp;#x65;&amp;#115;&amp;#115;&amp;#64;&amp;#101;&amp;#120;&amp;#x61;&amp;#109;&amp;#x70;&amp;#x6C;e&amp;#x2E;&amp;#99;&amp;#111;&amp;#109;&lt;/a&gt;</code></pre><p>在浏览器里面，这段字串（其实是 <code>&lt;a href=”mailto:<a href="mailto:address@example.com" target="_blank" rel="noopener">address@example.com</a>“&gt;<a href="mailto:address@example.com" target="_blank" rel="noopener">address@example.com</a>&lt;/a&gt;</code>）会变成一个可以点击的「<a href="mailto:address@example.com" target="_blank" rel="noopener">address@example.com</a>」链接。</p><p>（这种作法虽然可以糊弄不少的机器人，但并不能全部挡下来，不过总比什么都不做好些。不管怎样，公开你的信箱终究会引来广告信件的。）</p><h3 id="backslash">反斜杠</h3><p>Markdown 可以利用反斜杠来插入一些在语法中有其它意义的符号，例如：如果你想要用星号加在文字旁边的方式来做出强调效果（但不用 <code>&lt;em&gt;</code> 标签），你可以在星号的前面加上反斜杠：</p><pre><code>\*literal asterisks\*</code></pre><p>Markdown 支持以下这些符号前面加上反斜杠来帮助插入普通的符号：</p><pre><code>\   反斜线`   反引号*   星号_   底线{}  花括号[]  方括号()  括弧#   井字号+   加号-   减号.   英文句点!   惊叹号</code></pre>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&lt;strong&gt;NOTE:&lt;/strong&gt; This is Simplelified  Chinese Edition Document of Markdown Syntax. If you are seeking for English Edition Document
+      
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="markdown" scheme="kihsu.me/tags/markdown/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lenovo xiaoxin700  hackintosh安装手记。</title>
+    <link href="kihsu.me/2017/04/26/hackintosh700/"/>
+    <id>kihsu.me/2017/04/26/hackintosh700/</id>
+    <published>2017-04-25T16:42:00.000Z</published>
+    <updated>2018-07-07T10:18:26.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>好久好久之前就想写一篇了，可是我太懒了。</p><hr><p>说明，这是在小新700上的黑苹果安装过程，目前驱动良好，已知bug为<br>        1.未测试HDMI 不知道能不能启动<br>       2.在手动睡眠唤醒后可能会出现无声音。请拔掉电源再睡一次就好（自动睡眠后唤醒是不会    有问题的）<br>    3.笔记本键盘的FN键为静音键，为了更好的使用请BIOS关掉hotkey模式。<br>    4.安装10.12.5后用Kext Utility添加CodecCommander.kext驱动文件，即可修复耳机杂音<br>        5.我的网卡已经更换为BMC94352Z（联想白名单版） 如果也更换了无需额外驱动</p><a id="more"></a><h2 id="U盘制作"><a href="#U盘制作" class="headerlink" title="U盘制作"></a>U盘制作</h2><p>首先你需要去远景论坛下载一个原版的10.12.5的DMG镜像，然后需要transmac破解版(刻录镜像工具)：链接: <a href="http://pan.baidu.com/s/1mi1Csti" target="_blank" rel="noopener">http://pan.baidu.com/s/1mi1Csti</a> 密码: ccci<br>还有小新700的clover文件夹，链接: <a href="https://pan.baidu.com/s/1nuY5ZBj" target="_blank" rel="noopener">https://pan.baidu.com/s/1nuY5ZBj</a> 密码: r6jf</p><ul><li>插上U盘，右键以管理员形式打开Transmac，找到你的U盘，右键选择restore with disk image，找到下载的镜像选中它，开始将系统镜像刻录进入U盘（此过程耗时20分钟左右）；</li></ul><p><img src="https://ws1.sinaimg.cn/large/cdfad3c6ly1fgaldsdn30j20g0067dg4.jpg" alt="!\[2\]\[">2]</p><ol><li>刻录好之后，把U盘拔了然后插上，会发现有一个EFI的盘，打开，打开EFI文件夹，将其中的所有文件删除，将小新700EFI内的Clover和boot放进去；<br><img src="https://ws1.sinaimg.cn/large/cdfad3c6ly1fgaldsdn30j20g0067dg4.jpg" alt="3"></li><li>关机，通过侧边的一键还原按钮进入BIOS，在security中把security boot关闭；boot调成uefi，不要<strong>  Legacy Support  </strong><h2 id="开始安装"><a href="#开始安装" class="headerlink" title="开始安装"></a>开始安装</h2></li><li>关机，通过侧边的一键还原按钮进入boot menu，移动光标到U盘，回车，会进入四叶草引导界面；<img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/18/232057djtg1b1l2n1tqbaf.jpg.thumb.jpg" alt="4"></li><li>然后进入clover后选择options-congig-congig_install。<br><img src="https://www.kihsu.me/usr/uploads/2017/06/327493267.jpg" alt="IMG_20170606_185534.jpg"><br><img src="https://www.kihsu.me/usr/uploads/2017/06/3972589261.jpg" alt="IMG_20170606_185522.jpg"></li></ol><p><img src="https://www.kihsu.me/usr/uploads/2017/06/334266082.jpg" alt="IMG_20170606_185513.jpg"></p><h2 id="进行安装"><a href="#进行安装" class="headerlink" title="进行安装"></a>进行安装</h2><ul><li>然后进行安装，耐心等待走完进度条。</li><li>选择磁盘工具程式，选择你要安装的硬盘，选择清除，会弹出一个窗口，名称随便改，下面不要动，清楚后叉 掉磁盘工具程式，点击安装OS，一路点击继续，并把系统装在刚刚清除的那个磁碟上<br><img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/15/114413fublyucucc31bcy3.jpg.thumb.jpg" alt="请输入图片描述"><img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/15/114234mnnnrn79ruzma7ag.jpg.thumb.jpg" alt="请输入图片描述"><br><img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/15/114256gxxu2wq959wq9qix.jpg.thumb.jpg" alt="请输入图片描述"> <img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/15/114327n9q7z1rc3t791y3o.jpg.thumb.jpg" alt="9"><br><img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/15/114441o3gsddzedkjudrtd.jpg.thumb.jpg" alt="请输入图片描述"><img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/15/114513b434rpp32gxg9pph.jpg.thumb.jpg" alt="请输入图片描述"></li><li>进入安装界面，此过程会卡在最后一秒２０分钟最后，所以一定要有耐心！！！<img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/15/114529v1ktkrtq7rrq7h51.jpg.thumb.jpg" alt="请输入图片描述"></li><li>装好之后，重复步骤（因为第一次安装是复制文件，第二次安装才是真真正正的安装！一共安装两次）<br><img src="http://pcs4.clubstatic.lenovo.com.cn/data/attachment/forum/201704/15/114542tyjzjy89z8ir48zy.jpg.thumb.jpg" alt="请输入图片描述"></li><li>装好之后根据引导选择国家，键盘布局，输入方式，apple　id有的话就输入，没有的话先选择不要登入，继续建立电脑账号，密码是你登录密码，建议不要太麻烦，到这里黑苹果安装完毕。<img src="https://www.kihsu.me/usr/uploads/2017/06/2505043763.png" alt="装好之后"><h2 id="安装完成"><a href="#安装完成" class="headerlink" title="安装完成"></a>安装完成</h2></li><li>别忘了重建一遍缓存</li><li>你需要把你U盘里的引导放到硬盘的EFI  然后用clover congigurator挂载EFI <a href="http://mackie100projects.altervista.org/" target="_blank" rel="noopener">下载链接</a><br><img src="https://www.kihsu.me/usr/uploads/2017/06/3466625413.jpg" alt="EF18F400-471A-46E0-8775-ACDF636C37B7.png.jpg"><br><img src="https://www.kihsu.me/usr/uploads/2017/06/2922519061.png" alt="QQ20170608-131528.png"><br>然后安装完重启<h2 id="写在后面"><a href="#写在后面" class="headerlink" title="写在后面"></a>写在后面</h2>本文只是写的我自己的安装过程，部分图片借用了<a href="http://club.lenovo.com.cn/thread-2009205-1-1.html" target="_blank" rel="noopener">联想论坛</a>的教程。如果有什么问题欢迎留言</li></ul>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;好久好久之前就想写一篇了，可是我太懒了。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;说明，这是在小新700上的黑苹果安装过程，目前驱动良好，已知bug为&lt;br&gt;        1.未测试HDMI 不知道能不能启动&lt;br&gt;       2.在手动睡眠唤醒后可能会出现无声音。请拔掉电源再睡一次就好（自动睡眠后唤醒是不会    有问题的）&lt;br&gt;    3.笔记本键盘的FN键为静音键，为了更好的使用请BIOS关掉hotkey模式。&lt;br&gt;    4.安装10.12.5后用Kext Utility添加CodecCommander.kext驱动文件，即可修复耳机杂音&lt;br&gt;        5.我的网卡已经更换为BMC94352Z（联想白名单版） 如果也更换了无需额外驱动&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="hackintosh" scheme="kihsu.me/tags/hackintosh/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>关于typecho开启全站HTTPS的问题</title>
+    <link href="kihsu.me/2017/04/22/typecho-https/"/>
+    <id>kihsu.me/2017/04/22/typecho-https/</id>
+    <published>2017-04-22T04:24:00.000Z</published>
+    <updated>2018-07-07T02:58:13.000Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="上传完证书后发现typecho头像是从gravatar获取的，但是typecho获取头像的地址为http。"><a href="#上传完证书后发现typecho头像是从gravatar获取的，但是typecho获取头像的地址为http。" class="headerlink" title="上传完证书后发现typecho头像是从gravatar获取的，但是typecho获取头像的地址为http。"></a>上传完证书后发现typecho头像是从gravatar获取的，但是typecho获取头像的地址为http。</h2><p>所以将var/Typecho/Common.php中的第939行中的<a href="http://www.gravatar.com/中的http改成https就好了。" target="_blank" rel="noopener">http://www.gravatar.com/中的http改成https就好了。</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;上传完证书后发现typecho头像是从gravatar获取的，但是typecho获取头像的地址为http。&quot;&gt;&lt;a href=&quot;#上传完证书后发现typecho头像是从gravatar获取的，但是typecho获取头像的地址为http。&quot; class=&quot;heade
+      
+    
+    </summary>
+    
+    
+      <category term="website" scheme="kihsu.me/tags/website/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>typecho安装后无法进入后台，后台404错误解决方法</title>
+    <link href="kihsu.me/2017/03/26/wordpress-back/"/>
+    <id>kihsu.me/2017/03/26/wordpress-back/</id>
+    <published>2017-03-26T12:17:00.000Z</published>
+    <updated>2018-07-07T10:20:33.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>最近打算从wordpress换到typecho，上传typecho后出现了访问后台提示404的错误，于是网上搜索了下解决方法。</p><blockquote><strong>1.军哥lnmp1.3环境下</strong>，只需要将/usr/local/nginx/conf/vhost/youname.com.conf文件的大概11行<br>include enable-php.conf;<br>这句改为<br>include enable-php-pathinfo.conf;<br>然后保存重启下即可。<br><br><br><a id="more"></a><br><br><br>&nbsp;<br><br>2.解决方法是修改你得站点conf，文件地址是<br><pre><code class="language-html">/usr/local/nginx/conf/vhost/youname.com.conf<br></code></pre><br>将include none.conf修改为include typecho.conf。<br>然后注释掉<br><pre><code class="language-html">try_files $uri =404;这一句。<br></code></pre><br>并将#include pathinfo.conf;前的#号去掉。<br><br>再刷新，就可以进入后台了。<br><br>其实，在配置域名的时候提示伪静态的时候输入typecho，就不用这么麻烦了。</blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;最近打算从wordpress换到typecho，上传typecho后出现了访问后台提示404的错误，于是网上搜索了下解决方法。&lt;/p&gt;
+&lt;blockquote&gt;&lt;strong&gt;1.军哥lnmp1.3环境下&lt;/strong&gt;，只需要将/usr/local/nginx/conf/vhost/youname.com.conf文件的大概11行&lt;br&gt;include enable-php.conf;&lt;br&gt;这句改为&lt;br&gt;include enable-php-pathinfo.conf;&lt;br&gt;然后保存重启下即可。&lt;br&gt;&lt;br&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="website" scheme="kihsu.me/tags/website/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>升级WordPress时遇到’另一更新正在进行’如何解决</title>
+    <link href="kihsu.me/2017/03/18/wprdpress-other/"/>
+    <id>kihsu.me/2017/03/18/wprdpress-other/</id>
+    <published>2017-03-18T14:56:00.000Z</published>
+    <updated>2018-07-07T02:55:25.000Z</updated>
+    
+    <content type="html"><![CDATA[<blockquote><br><br>我相信很多人在使用WordPress升级程序的时候最为讨厌他们经常的更新和升级，如果你不升级吧万一有安全问题，万一你升级吧可能会出现各种各样的问题。<br><br><br><a id="more"></a><br><br><br>我们最为喜欢的方式是在登入后台的时候看到有新版本提醒之后直接点击在线升级，包括我也一样这样省心省力。但是这样也是最为容易出现问题的。<br><br>比如这次又遇到新问题，在升级4.5.2版本的时候，升级的时候有提示”另一更新正在进行”问题。<a href="https://ws1.sinaimg.cn/large/cdfad3c6ly1fdrdu4dqppj20eo07iq2y.jpg" target="_blank" rel="noopener"><img class="alignnone size-medium" src="https://ws1.sinaimg.cn/large/cdfad3c6ly1fdrdu4dqppj20eo07iq2y.jpg" width="528" height="270"></a><br><br>根据错误提示，也寻找网上的一些解决方法，比如大部分使用的是这样的方法：<br><br>1、在当前WP程序的wp_options数据表中；<br><br>2、找到core_updater.lock字段后删除再重新点击后台自动升级链接。<br><br>但是，我根据这个方法操作N次都还是一样的错误。那怎么解决呢？<br><br>第一、删除当前网站中的wp-admin和wp-includes文件夹及内容（wp-content文件夹不要删除，切记）<br><br>第二、下载当前最新版本WP程序，将上面2个文件夹及内容包括网站根目录的内容全部替换到当前网站目录中。<br><br>第三、执行http://当前网站域名/wp-admin/upgrade.php<br><br><strong>注</strong>：不管何种升级方法，我们都需要提前备份好当前网站文件和数据库，万一出现问题我们还可以恢复到之前的版本。</blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;blockquote&gt;&lt;br&gt;&lt;br&gt;我相信很多人在使用WordPress升级程序的时候最为讨厌他们经常的更新和升级，如果你不升级吧万一有安全问题，万一你升级吧可能会出现各种各样的问题。&lt;br&gt;&lt;br&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="website" scheme="kihsu.me/tags/website/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>为你的计算机获取最新可科学上网的Hosts</title>
+    <link href="kihsu.me/2017/02/10/host/"/>
+    <id>kihsu.me/2017/02/10/host/</id>
+    <published>2017-02-10T14:44:00.000Z</published>
+    <updated>2018-07-07T10:18:42.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>一、Hosts是干什么的</p><div class="post-content"><br><br>[来源：维基百科]hosts文件是一个用于储存计算机网络中各节点信息的计算机文件。这个文件负责将主机名称映射到相应的IP地址。hosts文件通常用于补充或替换网络中DNS的功能。和DNS不同的是，计算机的用户可以直接对hosts文件进行控制。<br><br><br><a id="more"></a><br><br><br>二、Hosts文件的位置<br>Windows ： 系统盘:\Windows\System32\drivers\etc\hosts   （注意：360等软件会将更改的Hosts修改至初始阶段，请自行关闭相关功能、计算机管理员权限）<br>Android： /system/etc/hosts（需要管理员权限）<br>Mac OS： /etc/hosts（需要管理员权限）<br>iOS： /etc/hosts（需要管理员权限）<br>Linux：/etc/hosts（需要管理员权限）<br>修改注意各个平台换行符的差异：Windows“\r\n”,Linux“\n”。<br>三、警告<br>在修改 hosts 后，所有网站都需要强制加密才能连接。例如：<a href="https://blog.ghsafc.org/" target="_blank" rel="noopener">https://blog.ghsafc.org/</a><br>刷新 DNS 缓存<br>Windows: 打开运行按钮（开始菜单右键），输入cmd ，在命令提示符运行命令<br><pre class="lang:default decode:true "> ipconfig /flushdns</pre><br>OS X 10.10: 在［应用程序］［实用工具］［终端］运行命令<br><pre class="lang:default decode:true "> sudo discoveryutil udnsflushcaches</pre><br>OS X 10.9: 在［应用程序］［实用工具］［终端］运行命令<br><pre class="lang:default decode:true">dscacheutil -flushcache; sudo killall -HUP mDNSResponder</pre><br>&nbsp;<br><br>OS X 10.7 ~ 10.8: 在［应用程序］［实用工具］［终端］运行命令<br><pre class="lang:default decode:true"> sudo killall -HUP mDNSResponder</pre><br>&nbsp;<br><br>Linux: 在［终端］运行命令<br><pre class="lang:default decode:true"> /etc/rc.d/init.d/nscd restart</pre><br>&nbsp;<br><br>四、获取链接<br>IPv4:（来源racaljk的Github) <a href="https://github.com/racaljk/hosts/blob/master/hosts" target="_blank" rel="noopener">min-hosts</a><br><br>五、其他问题<br>请在评论处写上<br><br></div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;一、Hosts是干什么的&lt;/p&gt;
+&lt;div class=&quot;post-content&quot;&gt;&lt;br&gt;&lt;br&gt;[来源：维基百科]hosts文件是一个用于储存计算机网络中各节点信息的计算机文件。这个文件负责将主机名称映射到相应的IP地址。hosts文件通常用于补充或替换网络中DNS的功能。和DNS不同的是，计算机的用户可以直接对hosts文件进行控制。&lt;br&gt;&lt;br&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="wall" scheme="kihsu.me/tags/wall/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wordpress只显示一个主题和不显示模板的解决办法</title>
+    <link href="kihsu.me/2017/02/09/wordpress-theme/"/>
+    <id>kihsu.me/2017/02/09/wordpress-theme/</id>
+    <published>2017-02-08T17:11:00.000Z</published>
+    <updated>2018-07-08T15:08:56.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>客户安装设置主题时经常会碰到页面本该有的模板选项不显示的问题，还有就是在主题列表里只能显示一个主题的问题。这两个问题导致主题有模板不能使用，几乎大部分功能都无法使用，第二个问题导致用户没办法切换主题，要切换主题则需要重新安装才行。</p><a id="more"></a><p>这两个问题其实是同一个原因造成的，就是因为服务器禁用了scandir()函数，可能是出于安全考虑才禁止的，只要我们解除限制就可以了。</p><p>只要找到服务器中的php.ini文件，找到</p><p><pre>passthru, exec, system, chroot, scandir, chgrp, chown, shell_exec, proc_open, proc_get_status, ini_alter, ini_alter, ini_restore, dl, pfsockopen</pre><br>然后把scandir删除即可，最后别忘记重启进程/etc/init.d/php-fpm restart。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;客户安装设置主题时经常会碰到页面本该有的模板选项不显示的问题，还有就是在主题列表里只能显示一个主题的问题。这两个问题导致主题有模板不能使用，几乎大部分功能都无法使用，第二个问题导致用户没办法切换主题，要切换主题则需要重新安装才行。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="wedsite" scheme="kihsu.me/tags/wedsite/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>wordpress开启HTTPS</title>
+    <link href="kihsu.me/2017/02/09/wordpress-https/"/>
+    <id>kihsu.me/2017/02/09/wordpress-https/</id>
+    <published>2017-02-08T17:03:00.000Z</published>
+    <updated>2018-07-07T10:20:53.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>如何在wordpress上开启https</p><p><ul><br>     <li>ssl证书（本人在腾讯云申请的免费1年的）</li><br>     <li>一个wordpress博客<img class="alignnone size-medium wp-image-141 aligncenter" src="https://www.kihsu.me/wp-content/uploads/2017/02/https-300x225.jpg" alt="" width="300" height="225"></li><br></ul><br>[striped]60[/striped]</p><p><blockquote>首先下载好ssl证书，下载解压后里面有apache,nginx,IIS的证书文件，找到nginx中的证书上传到/usr/local/nginx/conf这个文件夹当中。</blockquote></p><a id="more"></a><p>然后找到你站点的配置文件，应该在/usr/local/nginx/conf/vhost目录下，目录下的website.conf就是站点的配置文件了。</p><p><pre class="lang:default decode:true">server<br>      {<br>        listen 443;<br>        ssl on;<br>        ssl_certificate 1_<a href="http://www.kihsu.me_bundle.crt" target="_blank" rel="noopener">www.kihsu.me_bundle.crt</a>; #填写你的ssl证书文件<br>        ssl_certificate_key 2_<a href="http://www.kihsu.me.key" target="_blank" rel="noopener">www.kihsu.me.key</a>; #填写你的ssl证书文件<br>        ssl_session_timeout 5m;<br>        ssl_protocols TLSv1 TLSv1.1 TLSv1.2; #按照这个协议配置<br>        ssl_ciphers ECDHE-RSA-AES128-GCM-SHA256:HIGH:!aNULL:!MD5:!RC4:!DHE;#按照这个套件配置<br>        ssl_prefer_server_ciphers on;<br>        server_name <a href="http://www.kihsu.me" target="_blank" rel="noopener">www.kihsu.me</a> kihsu.me; #填写你的站点名称<br>        index index.html index.htm index.php default.html default.htm default.php;<br>        root  /home/wwwroot/<a href="http://www.kihsu.me" target="_blank" rel="noopener">www.kihsu.me</a>; #填写你的站点目录</pre></p><pre><code>    include none.conf;    #error_page   404   /404.html;    include enable-php.conf;    location ~ .*\.(gif|jpg|jpeg|png|bmp|swf)$    {        expires      30d;    }    location ~ .*\.(js|css)?$    {        expires      12h;    }    location ~ /\.    {        deny all;    }    access_log off;}</code></pre><p>  server<br>        {<br>            listen 80;</p><pre><code>    #listen [::]:80;    server_name www.kihsu.me kihsu.me;    rewrite ^(.*) https://$host$1 permanent; #全站加密，跳转http}&lt;/pre&gt;</code></pre><p></p><h4 id="2.3-.E4.BD.BF.E7.94.A8.E5.85.A8.E7.AB.99.E5.8A.A0.E5.AF.86.EF.BC.8Chttp.E8.87.AA.E5.8A.A8.E8.B7.B3.E8.BD.AChttps.EF.BC.88.E5.8F.AF.E9.80.89.EF.BC.89">使用全站加密，http自动跳转https</h4><br>对于用户不知道网站可以进行https访问的情况下，让服务器自动把http的请求重定向到https。<br>在服务器这边的话配置的话，可以在页面里加js脚本，也可以在后端程序里写重定向，当然也可以在web服务器来实现跳转。Nginx是支持rewrite的（只要在编译的时候没有去掉pcre）<br>在http的server里增加<code>rewrite ^(.*) https://$host$1 permanent;</code><br>这样就可以实现80进来的请求，重定向为https了。<p></p><p>修改完配置文件后，重启一下nginx就可以访问了。/etc/init.d/nginx restart</p><p>虽然有了整站的重定向，但我们不妨还是将 WordPress 本身自带的功能打开</p><p>找到网站根目录，修改文件 config.php，直接在这个文件的末尾另起一行，追加两行代码：</p><p>&nbsp;</p><p>/<em> 强制后台和登录使用 SSL </em>/</p><p>define(‘FORCE_SSL_LOGIN’, true);</p><p>define(‘FORCE_SSL_ADMIN’, true);</p><p>&nbsp;<br>最主要的可能就是图片的问题了，你在上传到空间的附件都被 WordPress 标记为了绝对链接，而且全都妥妥的写入了 “http://”。一般来讲，是需要用数据库替换的，不过这种方法有点小危险，我这里给你推荐另外一个不错的选择：使用代码让 WordPress 在加载附件之前将链接替换就好了！——毕竟，只是协议的问题，跟路径没有半毛钱的关系~</p><p>（我希望你使用了 WordPress 的子主题功能……）</p><p>找到当前主题下的 function.php 文件，编辑之，在里边代码的末尾追加如下代码：</p><p>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>/<em> 替换图片链接为 https </em>/<br>function my_content_manipulator($content){<br>    if( is_ssl() ){<br>        $content = str_replace(‘<a href="http://www.logcg.com/wp-content/uploads&#39;" target="_blank" rel="noopener">http://www.logcg.com/wp-content/uploads&#39;</a>, ‘<a href="https://www.logcg.com/wp-content/uploads&#39;" target="_blank" rel="noopener">https://www.logcg.com/wp-content/uploads&#39;</a>, $content);<br>    }<br>    return $content;<br>}<br>add_filter(‘the_content’, ‘my_content_manipulator’);<br>另外，除了这个大头意外，你还需要关心站内的各种内链：</p><p>修改“菜单”当中的所有“自定义链接”为相对路径；<br>修改“设置”→“常规”里的“站点地址”和“WordPress 地址”为 HTTPS；<br>修改其他自己手贱写入的绝对链接地址……</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;如何在wordpress上开启https&lt;/p&gt;
+&lt;p&gt;&lt;ul&gt;&lt;br&gt;     &lt;li&gt;ssl证书（本人在腾讯云申请的免费1年的）&lt;/li&gt;&lt;br&gt;     &lt;li&gt;一个wordpress博客&lt;img class=&quot;alignnone size-medium wp-image-141 aligncenter&quot; src=&quot;https://www.kihsu.me/wp-content/uploads/2017/02/https-300x225.jpg&quot; alt=&quot;&quot; width=&quot;300&quot; height=&quot;225&quot;&gt;&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;&lt;br&gt;[striped]60[/striped]&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;首先下载好ssl证书，下载解压后里面有apache,nginx,IIS的证书文件，找到nginx中的证书上传到/usr/local/nginx/conf这个文件夹当中。&lt;/blockquote&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="website" scheme="kihsu.me/tags/website/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>废话</title>
+    <link href="kihsu.me/2017/02/05/boring/"/>
+    <id>kihsu.me/2017/02/05/boring/</id>
+    <published>2017-02-04T16:14:00.000Z</published>
+    <updated>2018-07-07T02:40:35.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>&nbsp;</p><p><blockquote></blockquote></p><p></p><p style="text-align: left;">转眼间2017已经过去了2个月了。</p><br><p></p><ul></ul>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;&amp;nbsp;&lt;/p&gt;
+&lt;p&gt;&lt;blockquote&gt;&lt;/blockquote&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p style=&quot;text-align: left;&quot;&gt;转眼间2017已经过去了2个月了。&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+
+
+
+&lt;/ul&gt;
+      
+    
+    </summary>
+    
+    
+      <category term="吐槽" scheme="kihsu.me/tags/%E5%90%90%E6%A7%BD/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2017blog</title>
+    <link href="kihsu.me/2017/01/11/2017blog/"/>
+    <id>kihsu.me/2017/01/11/2017blog/</id>
+    <published>2017-01-11T15:49:00.000Z</published>
+    <updated>2018-07-07T10:16:45.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客做了好多个，换了好多域名，博文却没有留住几个。</p><a id="more"></a><p>换过了多少域名，<br>丢过了多少博文，<br>然后，就是这个博客了，全新的域名，全新的主题，全新的备案。</p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;博客做了好多个，换了好多域名，博文却没有留住几个。&lt;/p&gt;
+    
+    </summary>
+    
+    
+      <category term="随笔" scheme="kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+      <category term="吐槽" scheme="kihsu.me/tags/%E5%90%90%E6%A7%BD/"/>
+    
+      <category term="life" scheme="kihsu.me/tags/life/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx下的博客使用到Wordpress固定链接时，出现了404页面！</title>
+    <link href="kihsu.me/2016/12/12/wordpress-404/"/>
+    <id>kihsu.me/2016/12/12/wordpress-404/</id>
+    <published>2016-12-12T00:55:00.000Z</published>
+    <updated>2018-07-07T10:20:28.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>上次搭建博客用的lamp环境，这次用的lnmp环境，所以导致固定链接出现了问题，所以google了一下找到了方法。</p><blockquote>用阿里云主机搭建的Nginx下的博客使用到Wordpress固定链接时，出现了404页面！下面我说一说如何解决这个问题！固定链接，我选择了自定义的“/%category%/%postname%/”修改固定链接后，访问文章会出现404错误！现在用的是Nginix，所以对应的要修改Nginix的Ngnix.conf配置文件，让其支持重定向！<br><br><br><a id="more"></a><br><br><br>我的Wordpress博客是的 server{}段是单独放到vhost/目录来存放每个网站的配置文件，因此在你网址的配置文件“/usr/local/nginx/conf/vhost/website.com.conf”下的Server{}字段中“root /websit/wwwroot/”的下面添加代码，内容如下：<br><pre class="lang:default decode:true ">if (-f $request_filename/index.html){<br>rewrite (.<em>) $1/index.html break;<br>}<br><br>if (-f $request_filename/index.php){<br>rewrite (.</em>) $1/index.php;<br>}<br><br>if (!-f $request_filename){<br>rewrite (.*) /index.php;<br>}</pre><br>&nbsp;<br><br>保存后，通过Putty输入  /etc/init.d/nginx restart , 重启nginix！相当于告诉Nginix访问这些后按照正则表达式转到其唯一正确的地址，就妥妥的解决了！</blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;上次搭建博客用的lamp环境，这次用的lnmp环境，所以导致固定链接出现了问题，所以google了一下找到了方法。&lt;/p&gt;
+&lt;blockquote&gt;用阿里云主机搭建的Nginx下的博客使用到Wordpress固定链接时，出现了404页面！下面我说一说如何解决这个问题！固定链接，我选择了自定义的“/%category%/%postname%/”修改固定链接后，访问文章会出现404错误！现在用的是Nginix，所以对应的要修改Nginix的Ngnix.conf配置文件，让其支持重定向！&lt;br&gt;&lt;br&gt;&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="学习" scheme="kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="blog" scheme="kihsu.me/tags/blog/"/>
+    
+  </entry>
+  
+</feed>
