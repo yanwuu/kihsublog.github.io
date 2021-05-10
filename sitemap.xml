@@ -2,199 +2,343 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>kihsu.me/2018/12/01/hello-world/</loc>
+    <loc>https://kihsu.me/2020/06/27/20200627%E5%85%B3%E4%BA%8E%E7%96%BE%E7%97%85%E4%B8%8B%E7%9A%84%E6%80%9D%E8%80%83/</loc>
     
-    <lastmod>2019-02-22T00:35:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/12/30/2017-end/</loc>
-    
-    <lastmod>2018-07-08T15:10:02.000Z</lastmod>
+    <lastmod>2021-05-10</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/10/24/boy/</loc>
+    <loc>https://kihsu.me/2017/12/30/20171230-end/</loc>
     
-    <lastmod>2018-07-08T15:09:56.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/02/09/wordpress-theme/</loc>
-    
-    <lastmod>2018-07-08T15:08:56.000Z</lastmod>
+    <lastmod>2021-05-09</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/08/05/xun/</loc>
+    <loc>https://kihsu.me/2017/10/24/20171024boy/</loc>
     
-    <lastmod>2018-07-08T15:08:44.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/02/09/wordpress-https/</loc>
-    
-    <lastmod>2018-07-07T10:20:53.000Z</lastmod>
+    <lastmod>2018-07-08</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/06/08/wordpress-ftp/</loc>
+    <loc>https://kihsu.me/2017/02/09/20170209wordpress-theme/</loc>
     
-    <lastmod>2018-07-07T10:20:48.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/03/26/wordpress-back/</loc>
-    
-    <lastmod>2018-07-07T10:20:33.000Z</lastmod>
+    <lastmod>2018-07-08</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2016/12/12/wordpress-404/</loc>
+    <loc>https://kihsu.me/2017/08/05/20170805xun/</loc>
     
-    <lastmod>2018-07-07T10:20:28.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/08/04/type-css/</loc>
-    
-    <lastmod>2018-07-07T10:20:06.000Z</lastmod>
+    <lastmod>2018-07-08</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2018/01/08/rn3/</loc>
+    <loc>https://kihsu.me/2017/02/09/20170209wordpress-https/</loc>
     
-    <lastmod>2018-07-07T10:19:58.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/06/08/redminote4-625/</loc>
-    
-    <lastmod>2018-07-07T10:19:44.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/10/30/pac-tg/</loc>
+    <loc>https://kihsu.me/2017/06/08/20170608wordpress-ftp/</loc>
     
-    <lastmod>2018-07-07T10:19:35.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2018/01/20/none-1/</loc>
-    
-    <lastmod>2018-07-07T10:19:26.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/08/02/music-unlock163/</loc>
+    <loc>https://kihsu.me/2017/03/26/20170326wordpress-back/</loc>
     
-    <lastmod>2018-07-07T10:19:10.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/05/01/markdown/</loc>
-    
-    <lastmod>2018-07-07T10:19:03.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/07/30/macos-download-baidu/</loc>
+    <loc>https://kihsu.me/2016/12/12/20161212wordpress-404/</loc>
     
-    <lastmod>2018-07-07T10:18:52.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/02/10/host/</loc>
-    
-    <lastmod>2018-07-07T10:18:42.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/11/21/home1/</loc>
+    <loc>https://kihsu.me/2017/08/04/20170804type-css/</loc>
     
-    <lastmod>2018-07-07T10:18:33.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/04/26/hackintosh700/</loc>
-    
-    <lastmod>2018-07-07T10:18:26.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/07/31/download-aria2/</loc>
+    <loc>https://kihsu.me/2018/01/08/20180108rn3/</loc>
     
-    <lastmod>2018-07-07T10:17:59.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/09/17/brew-mac/</loc>
-    
-    <lastmod>2018-07-07T10:17:34.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/09/04/android-404/</loc>
+    <loc>https://kihsu.me/2017/06/08/20170608redminote4-625/</loc>
     
-    <lastmod>2018-07-07T10:16:56.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/01/11/2017blog/</loc>
-    
-    <lastmod>2018-07-07T10:16:45.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2018/04/27/no-go/</loc>
+    <loc>https://kihsu.me/2017/10/30/20171030pac-tg/</loc>
     
-    <lastmod>2018-07-07T09:29:35.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>kihsu.me/2017/04/22/typecho-https/</loc>
-    
-    <lastmod>2018-07-07T02:58:13.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/03/18/wprdpress-other/</loc>
+    <loc>https://kihsu.me/2018/01/20/20180120none-1/</loc>
     
-    <lastmod>2018-07-07T02:55:25.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
   
   <url>
-    <loc>kihsu.me/2017/02/05/boring/</loc>
+    <loc>https://kihsu.me/2017/08/02/20170802music-unlock163/</loc>
     
-    <lastmod>2018-07-07T02:40:35.000Z</lastmod>
+    <lastmod>2018-07-07</lastmod>
     
   </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/05/01/20170501markdown/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/07/30/20170730macos-download-baidu/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/02/10/20170210host/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/11/21/20171121home1/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/04/26/20170426hackintosh700/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/07/31/20170731download-aria2/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/09/17/20170917brew-mac/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/09/04/20170904android-404/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/01/11/20170111blog/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2018/04/27/20180427no-go/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/04/22/20170422typecho-https/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/03/18/20170318wprdpress-other/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/02/05/20170205boring/</loc>
+    
+    <lastmod>2018-07-07</lastmod>
+    
+  </url>
+  
+
+  <url>
+    <loc>https://kihsu.me/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://kihsu.me/tags/blog/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/%E5%AD%A6%E4%B9%A0/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/%E5%90%90%E6%A7%BD/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/life/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/%E9%9A%8F%E7%AC%94/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/website/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/wedsite/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/wall/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/hackintosh/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/Android/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/wordpress/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/macos/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/download/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/markdown/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/music/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/%E6%91%98%E6%8A%84/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/sad/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/%E5%9B%9E%E5%AE%B6/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/geek/</loc>
+    <lastmod>2021-05-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
   
 </urlset>
