@@ -165,9 +165,9 @@
     
     <category term="学习" scheme="https://kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
     
-    <category term="吐槽" scheme="https://kihsu.me/tags/%E5%90%90%E6%A7%BD/"/>
-    
     <category term="wall" scheme="https://kihsu.me/tags/wall/"/>
+    
+    <category term="吐槽" scheme="https://kihsu.me/tags/%E5%90%90%E6%A7%BD/"/>
     
   </entry>
   
@@ -289,9 +289,9 @@
     
     
     
-    <category term="随笔" scheme="https://kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
-    
     <category term="website" scheme="https://kihsu.me/tags/website/"/>
+    
+    <category term="随笔" scheme="https://kihsu.me/tags/%E9%9A%8F%E7%AC%94/"/>
     
   </entry>
   
@@ -666,9 +666,9 @@ include enable-php-pathinfo.conf;
     
     
     
-    <category term="blog" scheme="https://kihsu.me/tags/blog/"/>
-    
     <category term="学习" scheme="https://kihsu.me/tags/%E5%AD%A6%E4%B9%A0/"/>
+    
+    <category term="blog" scheme="https://kihsu.me/tags/blog/"/>
     
   </entry>
   
