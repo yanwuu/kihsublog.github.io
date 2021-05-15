@@ -2,6 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://kihsu.me/2017/11/24/20171124macos-vs/</loc>
+    
+    <lastmod>2021-05-15</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/2017/11/03/20171103Voodoo-PS2-Controller-DIY/</loc>
+    
+    <lastmod>2021-05-15</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://kihsu.me/categories/index.html</loc>
     
     <lastmod>2021-05-15</lastmod>
@@ -214,21 +228,7 @@
 
   
   <url>
-    <loc>https://kihsu.me/tags/%E5%AD%A6%E4%B9%A0/</loc>
-    <lastmod>2021-05-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kihsu.me/tags/website/</loc>
-    <lastmod>2021-05-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kihsu.me/tags/wedsite/</loc>
+    <loc>https://kihsu.me/tags/%E5%90%90%E6%A7%BD/</loc>
     <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -242,14 +242,7 @@
   </url>
   
   <url>
-    <loc>https://kihsu.me/tags/wall/</loc>
-    <lastmod>2021-05-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kihsu.me/tags/%E5%90%90%E6%A7%BD/</loc>
+    <loc>https://kihsu.me/tags/%E5%AD%A6%E4%B9%A0/</loc>
     <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -270,28 +263,21 @@
   </url>
   
   <url>
-    <loc>https://kihsu.me/tags/wordpress/</loc>
+    <loc>https://kihsu.me/tags/website/</loc>
     <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://kihsu.me/tags/Android/</loc>
+    <loc>https://kihsu.me/tags/wedsite/</loc>
     <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://kihsu.me/tags/macos/</loc>
-    <lastmod>2021-05-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kihsu.me/tags/download/</loc>
+    <loc>https://kihsu.me/tags/wall/</loc>
     <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -312,6 +298,41 @@
   </url>
   
   <url>
+    <loc>https://kihsu.me/tags/Android/</loc>
+    <lastmod>2021-05-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/wordpress/</loc>
+    <lastmod>2021-05-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/macos/</loc>
+    <lastmod>2021-05-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/download/</loc>
+    <lastmod>2021-05-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/music/</loc>
+    <lastmod>2021-05-15</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kihsu.me/tags/%E6%91%98%E6%8A%84/</loc>
     <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
@@ -320,13 +341,6 @@
   
   <url>
     <loc>https://kihsu.me/tags/sad/</loc>
-    <lastmod>2021-05-15</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kihsu.me/tags/music/</loc>
     <lastmod>2021-05-15</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

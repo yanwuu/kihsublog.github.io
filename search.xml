@@ -103,6 +103,27 @@
     
     
     <entry>
+      <title> 10.13vscode解决方法。 </title>
+      <link href="2017/11/24/20171124macos-vs/"/>
+      <url>2017/11/24/20171124macos-vs/</url>
+      
+        <content type="html"><![CDATA[<p>#10.13 High Sierra Vscode #include errors detected … cannot open source file “iostream解决方法。</p><hr><blockquote><p>For reference, I was missing:<br>/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/usr/include<br>/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.13.sdk/System/Library/Frameworks</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 随笔 </tag>
+            
+            <tag> macos </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>寒衣节</title>
       <link href="2017/11/21/20171121home1/"/>
       <url>2017/11/21/20171121home1/</url>
@@ -124,6 +145,27 @@
     
     
     <entry>
+      <title>如何自定义Voodoo-PS2-Controller键位</title>
+      <link href="2017/11/03/20171103Voodoo-PS2-Controller-DIY/"/>
+      <url>2017/11/03/20171103Voodoo-PS2-Controller-DIY/</url>
+      
+        <content type="html"><![CDATA[<p>#使用Voodoo-PS2-Controller驱动后发现f1-f12功能键不正常  </p><ul><li><strong>自定义属于自己的fn-f12</strong><br>一开始我也不知道如何自定义，于是去了<a href="https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller/wiki">Voodoo-PS2-Controller项目的地址</a></li></ul><span id="more"></span><p>发现了这些</p><blockquote><p>VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard/Contents/Info.plist 中，分别有一个数据段用来配置上述的重映射操作。如果你使用Finder，可以通过右键，然后选择“显示包内容”来打开kext驱动。</p></blockquote><blockquote><p>特别注意Info.plist文件的以下数据段：</p></blockquote><pre><code>    &lt;key&gt;Custom PS2 Map&lt;/key&gt;    &lt;array&gt;        &lt;string&gt;;Items must be strings in the form of scanfrom=scanto&lt;/string&gt;        &lt;string&gt;;The following 12 items map Fn+fkeys to fkeys&lt;/string&gt;        &lt;string&gt;e05f=3b&lt;/string&gt;        &lt;string&gt;e012=3c&lt;/string&gt;        &lt;string&gt;e017=3d&lt;/string&gt;        .        .        .        &lt;string&gt;57=e022&lt;/string&gt;        &lt;string&gt;58=e019&lt;/string&gt;    &lt;/array&gt;</code></pre><blockquote><p>这个部分表示将Fn+fkeys和正常的fkeys的扫描码进行交换。这个array标签中的每个string对一个扫描码进行重映射。扫描码用十六进制表示，这个数值与你在voodoo kext的Debug版本看到的完全一致。这个数据段使用的是PS2扫描码至PS2扫描码映射的功能实现的。它也可以使用PS2扫描码至ADB码实现。但是除非你能阅读源码，否则不容易操作ADB码。在这里，我们只希望能够将一个按键映射为另一个，所以使用PS2至PS2扫描码映射实现就可以了。</p></blockquote><blockquote><p>看看这组映射的第一项： e05f=3b。每个映射条目遵循模式：scanFrom=scanTo。在HP 4530s的键盘上，e05f是按键Fn+F1的扫描码（其他键盘可能有所不同），3b是按键F1的扫描码。所以这一项将按键Fn+F1映射至F1。注释行以分号（;）开始。扫描码可以是普通扫描码或扩展扫描码。以e0开始（如前面所说的e05f）的表示一个扩展扫描码。当把扫描码发送至驱动时，一次只会发送一个字节。所以当发送一个扩展扫描码时，首先会发送“e0”，接着才是具体的按键扫描码。当在检查调试输出时，你会分别看到这些项目。</p></blockquote><blockquote><p>上面贴出的配置中的最后一个条目是将按键F12映射为Fn+F12。</p></blockquote><blockquote><p>如果你想要移除任何一组映射，直接删除Info.plist中对应行即可。在编辑Info.plist前，最好将整个驱动从/System/Library/Extensions拷贝出来。当完成编辑时，把Info.plist文件保存在该处，然后重新安装整个驱动。当然，也可以直接编辑安装好的驱动中的Info.plist文件，但这里不讨论这个问题。如果你不知道如何操作，则遵循以上的建议。</p></blockquote><blockquote><p>你可以通过文件编辑器或plist文件编辑器来编辑Info.plist文件。如果你使用文件编辑器的话，你必须很仔细地遵守XML文件的语法规则。苹果的Xcode开发环境包含了一个plist文件编辑器，而且我确定也会有其他免费的plist文件编辑器。</p></blockquote><h1 id="看了这些你会发现还是不太懂"><a href="#看了这些你会发现还是不太懂" class="headerlink" title="看了这些你会发现还是不太懂"></a>看了这些你会发现还是不太懂</h1><p>下载 <a href="https://bitbucket.org/RehabMan/os-x-ioio/downloads/">OS-X-ioio</a>，执行：<br>         ioio -s ApplePS2Keyboard LogScanCodes 1<br>按下功能键（例如：F1），用控制台应用搜索ApplePS2Keyboard看看是否有如下日志输出，如果有，说明功能键受PS/2控制，可以继续下去。例如：<br>    ApplePS2Keyboard: sending key e020=4a down<br><em><strong>然后记录好自己的每个映射</strong></em><br>根据<a href="https://github.com/RehabMan/OS-X-Voodoo-PS2-Controller/blob/master/VoodooPS2Keyboard/ApplePS2ToADBMap.h">ADBMAP</a>做好映射，然后修改VoodooPS2Controller.kext/Contents/PlugIns/VoodooPS2Keyboard/Contents/Info.plist<br>例如：<br>                        <key>Custom PS2 Map</key><br>                    <array><br>                        <string>3b=e020</string><br>                        <string>3c=e02e</string><br>                        <string>3d=e030</string><br>                        <string>3e=e04f</string><br>                        <string>40=e073</string><br>                        <string>41=e05f</string><br>                        <string>42=e06d</string><br>                        <string>44=e06a</string><br>                        <string>;Items must be strings in the form of scanfrom=scanto (in hex)</string><br>                        <string>e027=0;disable discrete fnkeys toggle</string><br>                        <string>e028=0;disable discrete trackpad toggle</string><br>                    </array></p><p>##修改后重启电脑，就会变成你想要的键位了。</p><p>#不过一旦Voodoo-PS2-Controller升级就会非常麻烦 我们可以在ssdt中修改。</p><pre><code>/** Intel ACPI Component Architecture* AML/ASL+ Disassembler version 20161117-64(RM)* Copyright (c) 2000 - 2016 Intel Corporation* * Disassembling to non-symbolic legacy ASL operators** Disassembly of iASLJ4Iwbu.aml, Fri Nov  3 14:18:59     2017 * * Original Table Header: *     Signature        &quot;SSDT&quot; *     Length           0x000004AC (1196) *     Revision         0x02 *     Checksum         0x2E *     OEM ID           &quot;hack&quot; *     OEM Table ID     &quot;KBD0&quot; *     OEM Revision     0x00000000 (0)*     Compiler ID      &quot;INTL&quot;*     Compiler Version 0x20161117 (538317079) */DefinitionBlock (&quot;&quot;, &quot;SSDT&quot;, 2, &quot;hack&quot;, &quot;KBD0&quot;,     0x00000000)    &#123;External (_SB_.PCI0, DeviceObj)    // (from opcode)External (_SB_.PCI0.LPCB, DeviceObj)    // (from opcode)External (_SB_.PCI0.LPCB.EC__, DeviceObj)    // (from opcode)External (_SB_.PCI0.LPCB.KBD0, DeviceObj)    // (from opcode)Scope (_SB.PCI0.LPCB.KBD0)&#123;    Method (_DSM, 4, NotSerialized)  // _DSM: Device-Specific Method    &#123;        If (LNot (Arg2))        &#123;            Return (Buffer (One)            &#123;                 0x03                                                       &#125;)        &#125;        Return (Package (0x04)        &#123;            &quot;RM,oem-id&quot;,             &quot;LENOVO&quot;,             &quot;RM,oem-table-id&quot;,             &quot;ideapad700&quot;        &#125;)    &#125;    Name (RMCF, Package (0x0C)    &#123;        &quot;Controller&quot;,         Package (0x02)        &#123;            &quot;WakeDelay&quot;,             Zero        &#125;,         &quot;Sentelic FSP&quot;,         Package (0x02)        &#123;            &quot;DisableDevice&quot;,             &quot;&gt;y&quot;        &#125;,         &quot;ALPS GlidePoint&quot;,         Package (0x02)        &#123;            &quot;DisableDevice&quot;,             &quot;&gt;y&quot;        &#125;,         &quot;Mouse&quot;,         Package (0x02)        &#123;            &quot;DisableDevice&quot;,             &quot;&gt;y&quot;        &#125;,         &quot;Synaptics TouchPad&quot;,         Package (0x08)        &#123;            &quot;DynamicEWMode&quot;,             &quot;&gt;y&quot;,             &quot;MultiFingerVerticalDivisor&quot;,             0x09,             &quot;MultiFingerHorizontalDivisor&quot;,             0x09,             &quot;MomentumScrollThreshY&quot;,             0x0C        &#125;,         &quot;Keyboard&quot;,         Package (0x0A)        &#123;            &quot;Breakless PS2&quot;,             Package (0x06)            &#123;                Package (0x00) &#123;&#125;,                 &quot;e064&quot;,                 &quot;e065&quot;,                 &quot;e068&quot;,                 &quot;e06a&quot;,                 &quot;e027&quot;            &#125;,             &quot;Custom ADB Map&quot;,             Package (0x07)            &#123;                Package (0x00) &#123;&#125;,                 &quot;e063=3f&quot;,                 &quot;e068=4f&quot;,                 &quot;e0f2=65&quot;,                 &quot;e06b=6b&quot;,                 &quot;e06c=71&quot;,                 &quot;e06a=70&quot;            &#125;,             &quot;Custom PS2 Map&quot;,             Package (0x02)            &#123;                Package (0x00) &#123;&#125;,                 &quot;e037=64&quot;            &#125;,             &quot;Function Keys Special&quot;,             Package (0x19)            &#123;                Package (0x00) &#123;&#125;,                 &quot;e020=e020&quot;,                 &quot;e02e=e02e&quot;,                 &quot;e030=e030&quot;,                 &quot;e064=e064&quot;,                 &quot;e065=e065&quot;,                 &quot;e066=e028&quot;,                 &quot;e067=e067&quot;,                 &quot;e068=e068&quot;,                 &quot;e069=e0f0&quot;,                 &quot;e06a=e06a&quot;,                 &quot;e06b=e06b&quot;,                 &quot;e06c=e06c&quot;,                 &quot;3b=3b&quot;,                 &quot;3c=3c&quot;,                 &quot;3d=3d&quot;,                 &quot;3e=3e&quot;,                 &quot;3f=3f&quot;,                 &quot;40=40&quot;,                 &quot;41=41&quot;,                 &quot;42=42&quot;,                 &quot;43=43&quot;,                 &quot;44=44&quot;,                 &quot;57=57&quot;,                 &quot;58=58&quot;            &#125;,             &quot;Function Keys Standard&quot;,             Package (0x19)            &#123;                Package (0x00) &#123;&#125;,                 &quot;e020=3b&quot;,                 &quot;e02e=3c&quot;,                 &quot;e030=3d&quot;,                 &quot;e064=3e&quot;,                 &quot;e065=3f&quot;,                 &quot;e066=40&quot;,                 &quot;e067=41&quot;,                 &quot;e068=42&quot;,                 &quot;e069=e0f2&quot;,                 &quot;e06a=44&quot;,                 &quot;e06b=57&quot;,                 &quot;e06c=58&quot;,                 &quot;3b=e020&quot;,                 &quot;3c=e02e&quot;,                 &quot;3d=e030&quot;,                 &quot;3e=e064&quot;,                 &quot;3f=e065&quot;,                 &quot;40=e028&quot;,                 &quot;41=e067&quot;,                 &quot;42=e068&quot;,                 &quot;43=e0f1&quot;,                 &quot;44=e06a&quot;,                 &quot;57=e06b&quot;,                 &quot;58=e06c&quot;            &#125;        &#125;    &#125;)&#125;Scope (_SB.PCI0.LPCB.EC)&#123;    Method (_Q1D, 0, NotSerialized)  // _Qxx: EC Query    &#123;        Notify (^^KBD0, 0x046B)    &#125;    Method (_Q1C, 0, NotSerialized)  // _Qxx: EC Query    &#123;        Notify (^^KBD0, 0x046C)    &#125;&#125;&#125;</code></pre><h3 id="像这样一样，这是根据Rehabman的U430修改的使用与Lenovo-ideapad700，理论上也适用于联想所有键位相同的ideapad设备。"><a href="#像这样一样，这是根据Rehabman的U430修改的使用与Lenovo-ideapad700，理论上也适用于联想所有键位相同的ideapad设备。" class="headerlink" title="像这样一样，这是根据Rehabman的U430修改的使用与Lenovo ideapad700，理论上也适用于联想所有键位相同的ideapad设备。"></a>像这样一样，这是根据Rehabman的U430修改的使用与Lenovo ideapad700，理论上也适用于联想所有键位相同的ideapad设备。</h3>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 学习 </tag>
+            
+            <tag> macos </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>PAC模式下Telegram连不上的解决方法</title>
       <link href="2017/10/30/20171030pac-tg/"/>
       <url>2017/10/30/20171030pac-tg/</url>
@@ -134,11 +176,11 @@
       
         <tags>
             
+            <tag> 吐槽 </tag>
+            
             <tag> 学习 </tag>
             
             <tag> wall </tag>
-            
-            <tag> 吐槽 </tag>
             
         </tags>
       
@@ -249,9 +291,9 @@
       
         <tags>
             
-            <tag> website </tag>
-            
             <tag> 随笔 </tag>
+            
+            <tag> website </tag>
             
         </tags>
       
@@ -583,9 +625,9 @@
       
         <tags>
             
-            <tag> 学习 </tag>
-            
             <tag> blog </tag>
+            
+            <tag> 学习 </tag>
             
         </tags>
       
