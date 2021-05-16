@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>买一部 Pixel备份iPhone相册</title>
+      <link href="2021/05/16/20210516%E4%B9%B0%E4%B8%80%E9%83%A8%20Pixel%E5%A4%87%E4%BB%BDiPhone%E7%9B%B8%E5%86%8C/"/>
+      <url>2021/05/16/20210516%E4%B9%B0%E4%B8%80%E9%83%A8%20Pixel%E5%A4%87%E4%BB%BDiPhone%E7%9B%B8%E5%86%8C/</url>
+      
+        <content type="html"><![CDATA[<h2 id="买一部-Pixel备份iPhone相册"><a href="#买一部-Pixel备份iPhone相册" class="headerlink" title="买一部 Pixel备份iPhone相册"></a>买一部 Pixel备份iPhone相册</h2><p>自从去年接收到Google的邮件之后内心就开始焦虑，想着我从12年开始的照片全部在Google photos该如何迁移。    </p><p>于是我先开了一个月的iCloud，iCloud很好用，全设备照片同步，用着很舒服。但是总感觉缺了一丝丝味道，对没错 就是照片自动分类，人脸识别。    </p><p>之前我用Google photos的时候想找到一个照片，比如天空 只需要检索一下关键词，但是在iCloud上面变了，于是我去海鲜市场捡了pixel。</p><ul><li><p>使用resync 实现与iPhone同步相册</p></li><li><p>同步至pixel 使用Google photos上传 成功实现无限空间</p><p><code>中途出现的小问题部分Mac导出的图片时间日期错误使用exifdate2fs成功解决</code></p></li></ul>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> Mac </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>关于疾病下的思考</title>
       <link href="2020/06/27/20200627%E5%85%B3%E4%BA%8E%E7%96%BE%E7%97%85%E4%B8%8B%E7%9A%84%E6%80%9D%E8%80%83/"/>
       <url>2020/06/27/20200627%E5%85%B3%E4%BA%8E%E7%96%BE%E7%97%85%E4%B8%8B%E7%9A%84%E6%80%9D%E8%80%83/</url>
