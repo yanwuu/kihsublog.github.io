@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kihsu.me/2021/05/16/20210516%E4%B9%B0%E4%B8%80%E9%83%A8%20Pixel%E5%A4%87%E4%BB%BDiPhone%E7%9B%B8%E5%86%8C/</loc>
+    <loc>https://kihsu.me/2021/05/16/20210516buyPixelbackupiPhone/</loc>
     
     <lastmod>2021-05-16</lastmod>
     
@@ -354,13 +354,6 @@
   </url>
   
   <url>
-    <loc>https://kihsu.me/tags/%E5%9B%9E%E5%AE%B6/</loc>
-    <lastmod>2021-05-16</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kihsu.me/tags/geek/</loc>
     <lastmod>2021-05-16</lastmod>
     <changefreq>daily</changefreq>
@@ -376,6 +369,13 @@
   
   <url>
     <loc>https://kihsu.me/tags/mac/</loc>
+    <lastmod>2021-05-16</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kihsu.me/tags/%E5%9B%9E%E5%AE%B6/</loc>
     <lastmod>2021-05-16</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
